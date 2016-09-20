@@ -1,0 +1,1283 @@
+nodedef>name VARCHAR,type VARCHAR,religion VARCHAR,region VARCHAR,sector VARCHAR,industry VARCHAR,marketCapital DOUBLE
+Westbridge Energy Corporation,Company,,,Energy,Oil Gas and Coal,157965
+Smart Products Nigeria Plc,Company,,,Agriculture,Palm Oil,45900000
+Lekoil Limited,Company,,,Energy,Oil Gas and Coal,68568000
+DN Meyer Plc,Company,,,Industrial Materials,Chemicals,227500000
+John Holt Plc,Company,,,Conglomerate,Conglomerate,342453242
+Erin Energy Corporation,Company,,,Energy,Oil Gas and Coal,433703000
+Pharma-Deko Plc,Company,,,Healthcare,Pharmaceuticals,463995758
+Vono Products PLC,Company,,,Consumer Goods,Furniture,484740017
+Costain (West Africa) Plc,Company,,,Construction,Construction,542191490
+R.T. Briscoe (Nigeria) Plc,Company,,,Industrial Materials,Automotive,588178440
+UTC Nigeria Plc,Company,,,Consumer Goods,Consumer Products,616687502
+International Energy Insurance Plc,Company,,,Financial Services,Insurance,642042744
+Tripple Gee & Company Plc,Company,,,Information Technology,Information Technology,836472260
+C & I Leasing Plc,Company,,,Financial Services,Specialty Finance,941409456
+Oando Energy Resources Inc,Company,,,Energy,Oil Gas and Coal,1003000000
+First Aluminium Nigeria Plc,Company,,,Industrial Materials,Aluminum,1055179621
+Northern Nigeria Flour Mills Plc,Company,,,Agriculture,Flour,1185030000
+Africa Finance Corporation,Company,,,Financial Services,Specialty Finance,1260000000
+Unic Insurance PLC,Company,,,Financial Services,Insurance,1291148000
+PZ Cussons Plc,Company,,,Consumer Goods,Consumer Products,1327000000
+Cutix Plc,Company,,,Industrial Materials,Electrical Equipment,1338604739
+Portland Paints and Products Nigeria Plc,Company,,,Industrial Materials,Paint,1344000000
+Omatek Ventures Plc,Company,,,Information Technology,Information Technology,1470894736
+A.G. Leventis (Nigeria) PLC,Company,,,Conglomerate,Conglomerate,1958994825
+Nigerian Ropes plc,Company,,,Industrial Materials,Textile,1966965480
+MULTIVERSE PLC,Company,,,Industrial Materials,Construction Materials,2130969343
+Afromedia PLC,Company,,,Services,Media,2219523493
+Livestock Feeds Plc,Company,,,Consumer Goods,Consumer Products,2239999348
+Red Star Express Plc,Company,,,Services,Transportation and Logistics,2240087688
+Eterna Plc,Company,,,Energy,Oil Gas and Coal,2295294578
+DN Tyre & Rubber Plc,Company,,,Consumer Goods,Automotive,2386000000
+Royal Exchange Plc,Company,,,Financial Services,Insurance,2572685037
+Chellarams Plc,Company,,,Conglomerate,Conglomerate,2588071500
+Secure Electronic Technology Plc,Company,,,Services,Gaming Lodging & Restaurants,2816000000
+Guinea Insurance Plc,Company,,,Financial Services,Insurance,3070000000
+STACO Insurance Plc,Company,,,Financial Services,Insurance,3070543804
+Japaul Oil and Maritime Services Plc,Company,,,Industrial Materials,Transportation and Logistics,3131350858
+Fidson Healthcare Plc,Company,,,Healthcare,Pharmaceuticals,3795000000
+NEM Insurance Plc,Company,,,Financial Services,Insurance,3801962097
+Niger Insurance Plc,Company,,,Financial Services,Insurance,3869739684
+Linkage Assurance Plc,Company,,,Financial Services,Insurance,3999999997
+Sovereign Trust Insurance Plc,Company,,,Financial Services,Insurance,4170411648
+Vitafoam Nigeria Plc,Company,,,Consumer Goods,Consumer Products,4226040000
+Union Homes Savings and Loans Plc,Company,,,Financial Services,Specialty Finance,4394531272
+Caverton Offshore Support Group Plc,Company,,,Energy,Oil Gas and Coal,4523188162
+Ikeja Hotel Plc,Company,,,Services,Hotels,4885171537
+Abbey Building Society Plc,Company,,,Financial Services,Specialty Finance,5250000000
+Africa Prudential Registrars Plc,Company,,,Financial Services,Specialty Finance,5280000000
+AIICO Insurance Plc,Company,,,Financial Services,Insurance,5752069718
+Capital Hotels PLC,Company,,,Services,Hotels,5993778600
+Nigerian Aviation Handling Company Plc,Company,,,Services,Transportation and Logistics,6480632812
+Nigerian Aviation Handling Company Plc,Company,,,Services,Transportation and Logistics,6480632812
+Computer Warehouse Group Plc,Company,,,Information Technology,Information Technology,6741286378
+Cornerstone Insurance Plc,Company,,,Financial Services,Insurance,7364753807
+ASO Savings and Loans Plc,Company,,,Financial Services,Specialty Finance,7370866901
+Unity Bank Plc,Company,,,Financial Services,Banking,7831856421
+Tourist Company of Nigeria Plc,Company,,,Services,Tourism,7884995526
+UACn Property Development Company Plc,Company,,,Construction,Construction,7923437476
+Continental Reinsurance Plc,Company,,,Financial Services,Insurance,9231742437
+Cement Company of Northern Nigeria Plc,Company,,,Industrial Materials,Cement,10807428787
+Honeywell Flour Mills Plc,Company,,,Agriculture,Flour,11419484627
+MRS OIL Nigeria PLC,Company,,,Energy,Oil Gas and Coal,11983185544
+United Capital Plc,Company,,,Financial Services,Institutional Financial Svcs,12300000000
+Skye Bank Plc,Company,,,Financial Services,Banking,13325089353
+Conoil Plc,Company,,,Energy,Oil Gas and Coal,13948437551
+Nampak Limited,Company,,,Industrial Materials,Packaging,14269000000
+FCMB Group Plc,Company,,,Financial Services,Banking,15050060173
+NASCON Allied Industries Plc,Company,,,Consumer Goods,Consumer Products,18175147273
+AXA Mansard Insurance Plc,Company,,,Financial Services,Insurance,20475000000
+Custodian and Allied Insurance Limited,Company,,,Financial Services,Insurance,22703995792
+Beta Glass Plc,Company,,,Industrial Materials,Glass,22748726000
+Chemical and Allied Products Plc,Company,,,Industrial Materials,Chemicals,26950000000
+Cadbury Nigeria Plc,Company,,,Consumer Goods,Consumer Products,29168477681
+Wema Bank Plc,Company,,,Financial Services,Banking,29316594222
+GlaxoSmithKline Consumer Nigeria Plc,Company,,,Healthcare,Pharmaceuticals,29872994670
+Okomu Oil Palm Company Plc,Company,,,Agriculture,Palm Oil,29971852200
+Diamond Bank Plc,Company,,,Financial Services,Banking,30108505658
+Presco Plc,Company,,,Agriculture,Palm Oil,34250000000
+UAC of Nigeria Plc,Company,,,Conglomerate,Conglomerate,39339302645
+Fidelity Bank Plc,Company,,,Financial Services,Banking,40564715832
+Transcorp Hotels Plc,Company,,,Services,Hotels,41878225489
+Transnational Corporation of Nigeria Plc,Company,,,Conglomerate,Conglomerate,44529147038
+Sterling Bank plc,Company,,,Financial Services,Banking,47792094089
+Oando PLC,Company,,,Energy,Oil Gas and Coal,48138475576
+TOTAL Nigeria Plc,Company,,,Industrial Materials,Chemicals,48368280899
+Flour Mills of Nigeria PLC,Company,,,Agriculture,Flour,49860506553
+AshakaCem Plc,Company,,,Industrial Materials,Cement,53746875000
+Julius Berger Nigeria PLC,Company,,,Construction,Construction,54780000000
+Mobil Oil Nigeria plc,Company,,,Energy,Oil Gas and Coal,55859812036
+International Breweries Plc,Company,,,Consumer Goods,Alcohol,56199892716
+Dangote Sugar Refinery Plc,Company,,,Agriculture,Sugar,71400000000
+PZ Cussons Nigeria Plc,Company,,,Consumer Goods,Consumer Products,86199056646
+Union Bank of Nigeria Plc,Company,,,Financial Services,Banking,94840516237
+Seven-up Bottling Company plc,Company,,,Consumer Goods,Consumer Products,97107093127
+Access Bank Plc,Company,,,Financial Services,Banking,114000000000
+Access Finance B.V.,Company,,,Financial Services,Banking,114000000000
+Unilever Nigeria Plc,Company,,,Consumer Goods,Consumer Products,117000000000
+FBN Holdings Plc,Company,,,Financial Services,Banking,126000000000
+United Bank for Africa Plc,Company,,,Financial Services,Banking,131000000000
+Stanbic IBTC Holdings PLC,Company,,,Financial Services,Banking,151000000000
+Guinness Nigeria Plc,Company,,,Consumer Goods,Alcohol,164000000000
+Seplat Petroleum Development Company Plc,Company,,,Energy,Oil Gas and Coal,174000000000
+Standard Bank Group Limited,Company,,,Financial Services,Banking,210000000000
+Ecobank Transnational Incorporated,Company,,,Financial Services,Banking,343000000000
+Lafarge Africa Plc,Company,,,Industrial Materials,Construction Materials,370000000000
+Forte Oil Plc,Company,,,Energy,Oil Gas and Coal,382000000000
+Zenith Bank Plc,Company,,,Financial Services,Banking,394000000000
+Guaranty Trust Bank Plc,Company,,,Financial Services,Banking,471000000000
+Nestle Nigeria Plc,Company,,,Consumer Goods,Consumer Products,555000000000
+Nigerian Breweries Plc,Company,,,Consumer Goods,Alcohol,901000000000
+Dangote Cement Plc,Company,,,Industrial Materials,Cement,2790000000000
+Guinness Ghana Breweries Limited,Company,,,Consumer Goods,Alcohol,
+Emirates Global Aluminium,Company,,,Industrial Materials,Aluminum,
+GZ Industries Limited,Company,,,Industrial Materials,Aluminum,
+Atlas Mara Co Invest Ltd,Company,,,Financial Services,Asset Management,
+Access Bank (Cote-d Ivoire) SA,Company,,,Financial Services,Banking,
+Ecobank Ghana Limited,Company,,,Financial Services,Banking,
+Ecobank Kenya Limited,Company,,,Financial Services,Banking,
+Ecobank Nigeria Limited,Company,,,Financial Services,Banking,
+First Bank of Nigeria Limited,Company,,,Financial Services,Banking,
+FirstMutual Microfinance Bank Limited,Company,,,Financial Services,Banking,
+Guaranty Trust Bank (Ghana) Limited,Company,,,Financial Services,Banking,
+Guaranty Trust Bank (Kenya) Limited,Company,,,Financial Services,Banking,
+Integrated Microfinance Bank,Company,,,Financial Services,Banking,
+Jaiz Bank PLC,Company,,,Financial Services,Banking,
+Keystone Bank Limited,Company,,,Financial Services,Banking,
+MainStreet Bank Limited,Company,,,Financial Services,Banking,
+The Standard Bank of South Africa Limited,Company,,,Financial Services,Banking,
+United Bank for Africa (Ghana) Limited,Company,,,Financial Services,Banking,
+Zenith Bank (Gambia) Limited,Company,,,Financial Services,Banking,
+Heritage Banking Company Limited,Company,,,Financial Services,Banking,
+ARM Cement Limited,Company,,,Industrial Materials,Cement,
+Benue Cement Company Plc,Company,,,Industrial Materials,Cement,
+Main One Cable Company Nigeria Ltd,Company,,,Communication,Communication,
+MTN Nigeria Communications Limited,Company,,,Communication,Communication,
+Starcomms Plc,Company,,,Communication,Communication,
+SWIFT networks Ltd,Company,,,Communication,Communication,
+Dorman Long Engineering Limited,Company,,,Industrial Materials,Construction,
+AACE Food Processing & Distribution Ltd,Company,,,Consumer Goods,Consumer Products,
+Coca-Cola HBC AG,Company,,,Consumer Goods,Consumer Products,
+Footwear Accessories Manufacturing and Distribution Plc,Company,,,Consumer Goods,Consumer Products,
+Matna Foods Company Limited,Company,,,Consumer Goods,Consumer Products,
+Nigerian Bottling Company Plc,Company,,,Consumer Goods,Consumer Products,
+Zacchi & Krome Limited,Company,,,Consumer Goods,Consumer Products,
+Nigerian Wire and Cable plc,Company,,,Industrial Materials,Electrical Equipment,
+International Institute For Sustainable Development private comp.,Company,,,Energy,Energy,
+International Institute For Sustainable Development,Company,,,Energy,Energy,
+Dangote Flour Mills Plc,Company,,,Agriculture,Flour,
+Mouka Limited,Company,,,Consumer Goods,Furniture,
+Curative Care network,Company,,,Healthcare,Healthcare,
+Expatcarehealth International Limited,Company,,,Healthcare,Healthcare,
+NICON Hilton Hotel,Company,,,Services,Hotels,
+Hydro Alternative Energy Inc,Company,,,Energy,Hydroelectric,
+ADIC Insurance Limited,Company,,,Financial Services,Insurance,
+Crusader Nigeria Plc,Company,,,Financial Services,Insurance,
+Leadway Assurance Company Limited,Company,,,Financial Services,Insurance,
+The Lion of Africa Insurance Company Limited,Company,,,Financial Services,Insurance,
+UBA Metropolitan Life Insurance Ltd,Company,,,Financial Services,Insurance,
+Unitrust Insurance Co. Ltd,Company,,,Financial Services,Insurance,
+Nigeria Deposit Insurance Corporation,Company,,,Financial Services,Insurance,
+Old Mutual Nigeria Life Assurance Company Limited,Company,,,Financial Services,Insurance,
+Union Assurance Company PLC,Company,,,Financial Services,Insurance,
+The Corporate Council on Africa,Company,,,Services,Mediation,
+The Corporate Council on Africa private company,Company,,,Services,Mediation,
+African Eagle Resources plc,Company,,,Industrial Materials,Metals and Mining,
+Acorn Petroleum Plc,Company,,,Energy,Oil Gas and Coal,
+Amni International Petroleum Development Company Limited,Company,,,Energy,Oil Gas and Coal,
+Arco Petrochemical Engineering Company Limited,Company,,,Energy,Oil Gas and Coal,
+Equator Exploration Limited,Company,,,Energy,Oil Gas and Coal,
+Oracle Energy Corp,Company,,,Energy,Oil Gas and Coal,
+First Hydrocarbon Nigeria Limited,Company,,,Energy,Oil Gas and Coal,
+Frontier Oil Limited,Company,,,Energy,Oil Gas and Coal,
+Integrated Energy Distribution and Marketing Limited,Company,,,Energy,Oil Gas and Coal,
+Niger Delta Exploration & Production Plc,Company,,,Energy,Oil Gas and Coal,
+Seven Energy International Limited,Company,,,Energy,Oil Gas and Coal,
+Total Kenya Limited,Company,,,Energy,Oil Gas and Coal,
+African Venture Capital Association,Company,,,Financial Services,Specialty Finance,
+AiQ Capital Management Limited,Company,,,Financial Services,Specialty Finance,
+Aspinall Capital Advisers,Company,,,Financial Services,Specialty Finance,
+Associated Discount House Limited,Company,,,Financial Services,Specialty Finance,
+BGL Plc & Co. Incorporated,Company,,,Financial Services,Specialty Finance,
+Capital Bancorp Limited,Company,,,Financial Services,Specialty Finance,
+CBO Investment Management,Company,,,Financial Services,Specialty Finance,
+Central Securities Clearing Systems Limited,Company,,,Financial Services,Specialty Finance,
+Chapel Hill Denham Group,Company,,,Financial Services,Specialty Finance,
+Consolidated Discounts Limited,Company,,,Financial Services,Specialty Finance,
+CRC Credit Bureau Limited,Company,,,Financial Services,Specialty Finance,
+Diamond Securities Limited,Company,,,Financial Services,Specialty Finance,
+Access Finance B.V,Company,,,Financial Services,Specialty Finance,
+Emerging Markets Private Equity Association,Company,,,Financial Services,Specialty Finance,
+Express Discount Limited,Company,,,Financial Services,Specialty Finance,
+Group Africa Growth Holdings,Company,,,Financial Services,Specialty Finance,
+GTI Capital Limited,Company,,,Financial Services,Specialty Finance,
+Intercontinental Homes Savings & Loans Plc,Company,,,Financial Services,Specialty Finance,
+Interswitch Limited,Company,,,Financial Services,Specialty Finance,
+Kakawa Discount House Limited,Company,,,Financial Services,Specialty Finance,
+Meristem Securities Limited,Company,,,Financial Services,Specialty Finance,
+MoneyBox Africa Limited,Company,,,Financial Services,Specialty Finance,
+Nigeria Sovereign Investment Authority,Company,,,Financial Services,Specialty Finance,
+Stanbic IBTC Asset Management Ltd,Company,,,Financial Services,Specialty Finance,
+Sterling Asset Management Trust Limited,Company,,,Financial Services,Specialty Finance,
+Unity Registrars Limited,Company,,,Financial Services,Specialty Finance,
+Vigeo Holdings Limited,Company,,,Financial Services,Specialty Finance,
+Zenith Securities Limited,Company,,,Financial Services,Specialty Finance,
+Hartford Steel Technologies,Company,,,Industrial Materials,Steel,
+Stokvis Nigeria Plc,Company,,,Unclassifiable ,Unclassifiable,
+edgedef>node1 VARCHAR,node2 VARCHAR,Label VARCHAR,Mode VARCHAR
+Skye Bank Plc,UAC of Nigeria Plc,Abdul Akhor Bello,executive
+UAC of Nigeria Plc,Skye Bank Plc,Abdul Akhor Bello,executive
+Skye Bank Plc,UACn Property Development Company Plc,Abdul Akhor Bello,executive
+UACn Property Development Company Plc,Skye Bank Plc,Abdul Akhor Bello,executive
+Skye Bank Plc,Portland Paints and Products Nigeria Plc,Abdul Akhor Bello,executive
+Portland Paints and Products Nigeria Plc,Skye Bank Plc,Abdul Akhor Bello,executive
+UAC of Nigeria Plc,UACn Property Development Company Plc,Abdul Akhor Bello,executive
+UACn Property Development Company Plc,UAC of Nigeria Plc,Abdul Akhor Bello,executive
+UAC of Nigeria Plc,Portland Paints and Products Nigeria Plc,Abdul Akhor Bello,executive
+Portland Paints and Products Nigeria Plc,UAC of Nigeria Plc,Abdul Akhor Bello,executive
+UACn Property Development Company Plc,Portland Paints and Products Nigeria Plc,Abdul Akhor Bello,executive
+Portland Paints and Products Nigeria Plc,UACn Property Development Company Plc,Abdul Akhor Bello,executive
+Wema Bank Plc,GTI Capital Limited,Abubakar Lawal,executive
+GTI Capital Limited,Wema Bank Plc,Abubakar Lawal,executive
+Lafarge Africa Plc,Nigerian Wire and Cable plc,Adebayo Jimoh,executive
+Nigerian Wire and Cable plc,Lafarge Africa Plc,Adebayo Jimoh,executive
+Lafarge Africa Plc,Wema Bank Plc,Adebode Adefioye,executive
+Wema Bank Plc,Lafarge Africa Plc,Adebode Adefioye,executive
+Cadbury Nigeria Plc,Interswitch Limited,Adedotun Sulaiman,executive
+Interswitch Limited,Cadbury Nigeria Plc,Adedotun Sulaiman,executive
+Cadbury Nigeria Plc,Cornerstone Insurance Plc,Adedotun Sulaiman,executive
+Cornerstone Insurance Plc,Cadbury Nigeria Plc,Adedotun Sulaiman,executive
+Cadbury Nigeria Plc,MoneyBox Africa Limited,Adedotun Sulaiman,executive
+MoneyBox Africa Limited,Cadbury Nigeria Plc,Adedotun Sulaiman,executive
+Cadbury Nigeria Plc,Mouka Limited,Adedotun Sulaiman,executive
+Mouka Limited,Cadbury Nigeria Plc,Adedotun Sulaiman,executive
+Interswitch Limited,Cornerstone Insurance Plc,Adedotun Sulaiman,executive
+Cornerstone Insurance Plc,Interswitch Limited,Adedotun Sulaiman,executive
+Interswitch Limited,MoneyBox Africa Limited,Adedotun Sulaiman,executive
+MoneyBox Africa Limited,Interswitch Limited,Adedotun Sulaiman,executive
+Interswitch Limited,Mouka Limited,Adedotun Sulaiman,executive
+Mouka Limited,Interswitch Limited,Adedotun Sulaiman,executive
+Cornerstone Insurance Plc,MoneyBox Africa Limited,Adedotun Sulaiman,executive
+MoneyBox Africa Limited,Cornerstone Insurance Plc,Adedotun Sulaiman,executive
+Cornerstone Insurance Plc,Mouka Limited,Adedotun Sulaiman,executive
+Mouka Limited,Cornerstone Insurance Plc,Adedotun Sulaiman,executive
+MoneyBox Africa Limited,Mouka Limited,Adedotun Sulaiman,executive
+Mouka Limited,MoneyBox Africa Limited,Adedotun Sulaiman,executive
+Guaranty Trust Bank Plc,Guaranty Trust Bank (Ghana) Limited,Ademola Ayodeji Odeyemi,executive
+Guaranty Trust Bank (Ghana) Limited,Guaranty Trust Bank Plc,Ademola Ayodeji Odeyemi,executive
+Guaranty Trust Bank Plc,Guaranty Trust Bank (Kenya) Limited,Ademola Ayodeji Odeyemi,executive
+Guaranty Trust Bank (Kenya) Limited,Guaranty Trust Bank Plc,Ademola Ayodeji Odeyemi,executive
+Guaranty Trust Bank (Ghana) Limited,Guaranty Trust Bank (Kenya) Limited,Ademola Ayodeji Odeyemi,executive
+Guaranty Trust Bank (Kenya) Limited,Guaranty Trust Bank (Ghana) Limited,Ademola Ayodeji Odeyemi,executive
+International Breweries Plc,Eterna Plc,Afolake Lawal,executive
+Eterna Plc,International Breweries Plc,Afolake Lawal,executive
+Omatek Ventures Plc,Chellarams Plc,Ahmed Abdulkadir,executive
+Chellarams Plc,Omatek Ventures Plc,Ahmed Abdulkadir,executive
+Nigerian Aviation Handling Company Plc,Nigerian Aviation Handling Company Plc,Ahmed Tijjani Uwais,executive
+Nigerian Aviation Handling Company Plc,Nigerian Aviation Handling Company Plc,Ahmed Tijjani Uwais,executive
+Africa Finance Corporation,Associated Discount House Limited,Aigboje I Aig Imoukhuede,executive
+Associated Discount House Limited,Africa Finance Corporation,Aigboje I Aig Imoukhuede,executive
+Unity Bank Plc,Unity Registrars Limited,Aisha Azumi Abraham,executive
+Unity Registrars Limited,Unity Bank Plc,Aisha Azumi Abraham,executive
+Lekoil Limited,Crusader Nigeria Plc,Aisha Muhammed Oyebode,executive
+Crusader Nigeria Plc,Lekoil Limited,Aisha Muhammed Oyebode,executive
+Dangote Cement Plc,Benue Cement Company Plc,Alhaji Aliko Dangote,executive
+Benue Cement Company Plc,Dangote Cement Plc,Alhaji Aliko Dangote,executive
+Dangote Cement Plc,Dangote Sugar Refinery Plc,Alhaji Aliko Dangote,executive
+Dangote Sugar Refinery Plc,Dangote Cement Plc,Alhaji Aliko Dangote,executive
+Dangote Cement Plc,NASCON Allied Industries Plc,Alhaji Aliko Dangote,executive
+NASCON Allied Industries Plc,Dangote Cement Plc,Alhaji Aliko Dangote,executive
+Dangote Cement Plc,Dangote Flour Mills Plc,Alhaji Aliko Dangote,executive
+Dangote Flour Mills Plc,Dangote Cement Plc,Alhaji Aliko Dangote,executive
+Dangote Cement Plc,NICON Hilton Hotel,Alhaji Aliko Dangote,executive
+NICON Hilton Hotel,Dangote Cement Plc,Alhaji Aliko Dangote,executive
+Dangote Cement Plc,Jaiz Bank PLC,Alhaji Aliko Dangote,executive
+Jaiz Bank PLC,Dangote Cement Plc,Alhaji Aliko Dangote,executive
+Dangote Cement Plc,The Corporate Council on Africa private company,Alhaji Aliko Dangote,executive
+The Corporate Council on Africa private company,Dangote Cement Plc,Alhaji Aliko Dangote,executive
+Dangote Cement Plc,The Corporate Council on Africa,Alhaji Aliko Dangote,executive
+The Corporate Council on Africa,Dangote Cement Plc,Alhaji Aliko Dangote,executive
+Benue Cement Company Plc,Dangote Sugar Refinery Plc,Alhaji Aliko Dangote,executive
+Dangote Sugar Refinery Plc,Benue Cement Company Plc,Alhaji Aliko Dangote,executive
+Benue Cement Company Plc,NASCON Allied Industries Plc,Alhaji Aliko Dangote,executive
+NASCON Allied Industries Plc,Benue Cement Company Plc,Alhaji Aliko Dangote,executive
+Benue Cement Company Plc,Dangote Flour Mills Plc,Alhaji Aliko Dangote,executive
+Dangote Flour Mills Plc,Benue Cement Company Plc,Alhaji Aliko Dangote,executive
+Benue Cement Company Plc,NICON Hilton Hotel,Alhaji Aliko Dangote,executive
+NICON Hilton Hotel,Benue Cement Company Plc,Alhaji Aliko Dangote,executive
+Benue Cement Company Plc,Jaiz Bank PLC,Alhaji Aliko Dangote,executive
+Jaiz Bank PLC,Benue Cement Company Plc,Alhaji Aliko Dangote,executive
+Benue Cement Company Plc,The Corporate Council on Africa private company,Alhaji Aliko Dangote,executive
+The Corporate Council on Africa private company,Benue Cement Company Plc,Alhaji Aliko Dangote,executive
+Benue Cement Company Plc,The Corporate Council on Africa,Alhaji Aliko Dangote,executive
+The Corporate Council on Africa,Benue Cement Company Plc,Alhaji Aliko Dangote,executive
+Dangote Sugar Refinery Plc,NASCON Allied Industries Plc,Alhaji Aliko Dangote,executive
+NASCON Allied Industries Plc,Dangote Sugar Refinery Plc,Alhaji Aliko Dangote,executive
+Dangote Sugar Refinery Plc,Dangote Flour Mills Plc,Alhaji Aliko Dangote,executive
+Dangote Flour Mills Plc,Dangote Sugar Refinery Plc,Alhaji Aliko Dangote,executive
+Dangote Sugar Refinery Plc,NICON Hilton Hotel,Alhaji Aliko Dangote,executive
+NICON Hilton Hotel,Dangote Sugar Refinery Plc,Alhaji Aliko Dangote,executive
+Dangote Sugar Refinery Plc,Jaiz Bank PLC,Alhaji Aliko Dangote,executive
+Jaiz Bank PLC,Dangote Sugar Refinery Plc,Alhaji Aliko Dangote,executive
+Dangote Sugar Refinery Plc,The Corporate Council on Africa private company,Alhaji Aliko Dangote,executive
+The Corporate Council on Africa private company,Dangote Sugar Refinery Plc,Alhaji Aliko Dangote,executive
+Dangote Sugar Refinery Plc,The Corporate Council on Africa,Alhaji Aliko Dangote,executive
+The Corporate Council on Africa,Dangote Sugar Refinery Plc,Alhaji Aliko Dangote,executive
+NASCON Allied Industries Plc,Dangote Flour Mills Plc,Alhaji Aliko Dangote,executive
+Dangote Flour Mills Plc,NASCON Allied Industries Plc,Alhaji Aliko Dangote,executive
+NASCON Allied Industries Plc,NICON Hilton Hotel,Alhaji Aliko Dangote,executive
+NICON Hilton Hotel,NASCON Allied Industries Plc,Alhaji Aliko Dangote,executive
+NASCON Allied Industries Plc,Jaiz Bank PLC,Alhaji Aliko Dangote,executive
+Jaiz Bank PLC,NASCON Allied Industries Plc,Alhaji Aliko Dangote,executive
+NASCON Allied Industries Plc,The Corporate Council on Africa private company,Alhaji Aliko Dangote,executive
+The Corporate Council on Africa private company,NASCON Allied Industries Plc,Alhaji Aliko Dangote,executive
+NASCON Allied Industries Plc,The Corporate Council on Africa,Alhaji Aliko Dangote,executive
+The Corporate Council on Africa,NASCON Allied Industries Plc,Alhaji Aliko Dangote,executive
+Dangote Flour Mills Plc,NICON Hilton Hotel,Alhaji Aliko Dangote,executive
+NICON Hilton Hotel,Dangote Flour Mills Plc,Alhaji Aliko Dangote,executive
+Dangote Flour Mills Plc,Jaiz Bank PLC,Alhaji Aliko Dangote,executive
+Jaiz Bank PLC,Dangote Flour Mills Plc,Alhaji Aliko Dangote,executive
+Dangote Flour Mills Plc,The Corporate Council on Africa private company,Alhaji Aliko Dangote,executive
+The Corporate Council on Africa private company,Dangote Flour Mills Plc,Alhaji Aliko Dangote,executive
+Dangote Flour Mills Plc,The Corporate Council on Africa,Alhaji Aliko Dangote,executive
+The Corporate Council on Africa,Dangote Flour Mills Plc,Alhaji Aliko Dangote,executive
+NICON Hilton Hotel,Jaiz Bank PLC,Alhaji Aliko Dangote,executive
+Jaiz Bank PLC,NICON Hilton Hotel,Alhaji Aliko Dangote,executive
+NICON Hilton Hotel,The Corporate Council on Africa private company,Alhaji Aliko Dangote,executive
+The Corporate Council on Africa private company,NICON Hilton Hotel,Alhaji Aliko Dangote,executive
+NICON Hilton Hotel,The Corporate Council on Africa,Alhaji Aliko Dangote,executive
+The Corporate Council on Africa,NICON Hilton Hotel,Alhaji Aliko Dangote,executive
+Jaiz Bank PLC,The Corporate Council on Africa private company,Alhaji Aliko Dangote,executive
+The Corporate Council on Africa private company,Jaiz Bank PLC,Alhaji Aliko Dangote,executive
+Jaiz Bank PLC,The Corporate Council on Africa,Alhaji Aliko Dangote,executive
+The Corporate Council on Africa,Jaiz Bank PLC,Alhaji Aliko Dangote,executive
+The Corporate Council on Africa private company,The Corporate Council on Africa,Alhaji Aliko Dangote,executive
+The Corporate Council on Africa,The Corporate Council on Africa private company,Alhaji Aliko Dangote,executive
+Zenith Bank Plc,Zenith Bank (Gambia) Limited,Alhaji Baba Tela,executive
+Zenith Bank (Gambia) Limited,Zenith Bank Plc,Alhaji Baba Tela,executive
+Nigerian Aviation Handling Company Plc,Nigerian Aviation Handling Company Plc,Alhaji Mallam Suleiman Yahyah,executive
+Nigerian Aviation Handling Company Plc,Nigerian Aviation Handling Company Plc,Alhaji Mallam Suleiman Yahyah,executive
+MRS OIL Nigeria PLC,Hydro Alternative Energy Inc,Alhaji Sayyu Idris Dantata,executive
+Hydro Alternative Energy Inc,MRS OIL Nigeria PLC,Alhaji Sayyu Idris Dantata,executive
+Secure Electronic Technology Plc,International Energy Insurance Plc,Alhaji Shehu Badamasi,executive
+International Energy Insurance Plc,Secure Electronic Technology Plc,Alhaji Shehu Badamasi,executive
+Central Securities Clearing Systems Limited,Lafarge Africa Plc,Alhaji Umaru Kwairanga,executive
+Lafarge Africa Plc,Central Securities Clearing Systems Limited,Alhaji Umaru Kwairanga,executive
+MRS OIL Nigeria PLC,FirstMutual Microfinance Bank Limited,Amina Maina,executive
+FirstMutual Microfinance Bank Limited,MRS OIL Nigeria PLC,Amina Maina,executive
+Oando PLC,Skye Bank Plc,Ammuna Lawan Ali,executive
+Skye Bank Plc,Oando PLC,Ammuna Lawan Ali,executive
+Oando PLC,Africa Prudential Registrars Plc,Ammuna Lawan Ali,executive
+Africa Prudential Registrars Plc,Oando PLC,Ammuna Lawan Ali,executive
+Skye Bank Plc,Africa Prudential Registrars Plc,Ammuna Lawan Ali,executive
+Africa Prudential Registrars Plc,Skye Bank Plc,Ammuna Lawan Ali,executive
+A.G. Leventis (Nigeria) PLC,Nigerian Bottling Company Plc,Anastasios Ioannis Leventis,executive
+Nigerian Bottling Company Plc,A.G. Leventis (Nigeria) PLC,Anastasios Ioannis Leventis,executive
+A.G. Leventis (Nigeria) PLC,Hartford Steel Technologies,Anastasios Ioannis Leventis,executive
+Hartford Steel Technologies,A.G. Leventis (Nigeria) PLC,Anastasios Ioannis Leventis,executive
+Nigerian Bottling Company Plc,Hartford Steel Technologies,Anastasios Ioannis Leventis,executive
+Hartford Steel Technologies,Nigerian Bottling Company Plc,Anastasios Ioannis Leventis,executive
+Lafarge Africa Plc,AshakaCem Plc,Anders Kristiansson,executive
+AshakaCem Plc,Lafarge Africa Plc,Anders Kristiansson,executive
+Ecobank Transnational Incorporated,Ecobank Nigeria Limited,Andr Siaka,executive
+Ecobank Nigeria Limited,Ecobank Transnational Incorporated,Andr Siaka,executive
+Standard Bank Group Limited,The Standard Bank of South Africa Limited,Andre Charles Parker,executive
+The Standard Bank of South Africa Limited,Standard Bank Group Limited,Andre Charles Parker,executive
+Africa Finance Corporation,Guaranty Trust Bank Plc,Andrew Folorunso A Alli,executive
+Guaranty Trust Bank Plc,Africa Finance Corporation,Andrew Folorunso A Alli,executive
+Africa Finance Corporation,ARM Cement Limited,Andrew Folorunso A Alli,executive
+ARM Cement Limited,Africa Finance Corporation,Andrew Folorunso A Alli,executive
+Guaranty Trust Bank Plc,ARM Cement Limited,Andrew Folorunso A Alli,executive
+ARM Cement Limited,Guaranty Trust Bank Plc,Andrew Folorunso A Alli,executive
+CRC Credit Bureau Limited,UBA Metropolitan Life Insurance Ltd,Angela Aneke Nwabuoku,executive
+UBA Metropolitan Life Insurance Ltd,CRC Credit Bureau Limited,Angela Aneke Nwabuoku,executive
+Dangote Flour Mills Plc,Dorman Long Engineering Limited,Arnold O Ekpe,executive
+Dorman Long Engineering Limited,Dangote Flour Mills Plc,Arnold O Ekpe,executive
+Dangote Flour Mills Plc,Atlas Mara Co nvest Ltd,Arnold O Ekpe,executive
+Atlas Mara Co nvest Ltd,Dangote Flour Mills Plc,Arnold O Ekpe,executive
+Dangote Flour Mills Plc,Nigeria Sovereign Investment Authority,Arnold O Ekpe,executive
+Nigeria Sovereign Investment Authority,Dangote Flour Mills Plc,Arnold O Ekpe,executive
+Dangote Flour Mills Plc,MULTIVERSE PLC,Arnold O Ekpe,executive
+MULTIVERSE PLC,Dangote Flour Mills Plc,Arnold O Ekpe,executive
+Dorman Long Engineering Limited,Atlas Mara Co nvest Ltd,Arnold O Ekpe,executive
+Atlas Mara Co nvest Ltd,Dorman Long Engineering Limited,Arnold O Ekpe,executive
+Dorman Long Engineering Limited,Nigeria Sovereign Investment Authority,Arnold O Ekpe,executive
+Nigeria Sovereign Investment Authority,Dorman Long Engineering Limited,Arnold O Ekpe,executive
+Dorman Long Engineering Limited,MULTIVERSE PLC,Arnold O Ekpe,executive
+MULTIVERSE PLC,Dorman Long Engineering Limited,Arnold O Ekpe,executive
+Atlas Mara Co nvest Ltd,Nigeria Sovereign Investment Authority,Arnold O Ekpe,executive
+Nigeria Sovereign Investment Authority,Atlas Mara Co nvest Ltd,Arnold O Ekpe,executive
+Atlas Mara Co nvest Ltd,MULTIVERSE PLC,Arnold O Ekpe,executive
+MULTIVERSE PLC,Atlas Mara Co nvest Ltd,Arnold O Ekpe,executive
+Nigeria Sovereign Investment Authority,MULTIVERSE PLC,Arnold O Ekpe,executive
+MULTIVERSE PLC,Nigeria Sovereign Investment Authority,Arnold O Ekpe,executive
+Dangote Flour Mills Plc,Kakawa Discount House Limited,Asue A Ighodalo,executive
+Kakawa Discount House Limited,Dangote Flour Mills Plc,Asue A Ighodalo,executive
+Dangote Flour Mills Plc,Sterling Bank plc,Asue A Ighodalo,executive
+Sterling Bank plc,Dangote Flour Mills Plc,Asue A Ighodalo,executive
+Dangote Flour Mills Plc,AiQ Capital Management Limited,Asue A Ighodalo,executive
+AiQ Capital Management Limited,Dangote Flour Mills Plc,Asue A Ighodalo,executive
+Dangote Flour Mills Plc,Zacchi & Krome Limited,Asue A Ighodalo,executive
+Zacchi & Krome Limited,Dangote Flour Mills Plc,Asue A Ighodalo,executive
+Kakawa Discount House Limited,Sterling Bank plc,Asue A Ighodalo,executive
+Sterling Bank plc,Kakawa Discount House Limited,Asue A Ighodalo,executive
+Kakawa Discount House Limited,AiQ Capital Management Limited,Asue A Ighodalo,executive
+AiQ Capital Management Limited,Kakawa Discount House Limited,Asue A Ighodalo,executive
+Kakawa Discount House Limited,Zacchi & Krome Limited,Asue A Ighodalo,executive
+Zacchi & Krome Limited,Kakawa Discount House Limited,Asue A Ighodalo,executive
+Sterling Bank plc,AiQ Capital Management Limited,Asue A Ighodalo,executive
+AiQ Capital Management Limited,Sterling Bank plc,Asue A Ighodalo,executive
+Sterling Bank plc,Zacchi & Krome Limited,Asue A Ighodalo,executive
+Zacchi & Krome Limited,Sterling Bank plc,Asue A Ighodalo,executive
+AiQ Capital Management Limited,Zacchi & Krome Limited,Asue A Ighodalo,executive
+Zacchi & Krome Limited,AiQ Capital Management Limited,Asue A Ighodalo,executive
+Flour Mills of Nigeria PLC,Standard Bank Group Limited,Atedo N A Peterside,executive
+Standard Bank Group Limited,Flour Mills of Nigeria PLC,Atedo N A Peterside,executive
+Flour Mills of Nigeria PLC,Nigerian Breweries Plc,Atedo N A Peterside,executive
+Nigerian Breweries Plc,Flour Mills of Nigeria PLC,Atedo N A Peterside,executive
+Flour Mills of Nigeria PLC,The Standard Bank of South Africa Limited,Atedo N A Peterside,executive
+The Standard Bank of South Africa Limited,Flour Mills of Nigeria PLC,Atedo N A Peterside,executive
+Flour Mills of Nigeria PLC,Stanbic IBTC Asset Management Ltd,Atedo N A Peterside,executive
+Stanbic IBTC Asset Management Ltd,Flour Mills of Nigeria PLC,Atedo N A Peterside,executive
+Flour Mills of Nigeria PLC,Cadbury Nigeria Plc,Atedo N A Peterside,executive
+Cadbury Nigeria Plc,Flour Mills of Nigeria PLC,Atedo N A Peterside,executive
+Flour Mills of Nigeria PLC,Stanbic IBTC Holdings PLC,Atedo N A Peterside,executive
+Stanbic IBTC Holdings PLC,Flour Mills of Nigeria PLC,Atedo N A Peterside,executive
+Flour Mills of Nigeria PLC,Unilever Nigeria Plc,Atedo N A Peterside,executive
+Unilever Nigeria Plc,Flour Mills of Nigeria PLC,Atedo N A Peterside,executive
+Standard Bank Group Limited,Nigerian Breweries Plc,Atedo N A Peterside,executive
+Nigerian Breweries Plc,Standard Bank Group Limited,Atedo N A Peterside,executive
+Standard Bank Group Limited,The Standard Bank of South Africa Limited,Atedo N A Peterside,executive
+The Standard Bank of South Africa Limited,Standard Bank Group Limited,Atedo N A Peterside,executive
+Standard Bank Group Limited,Stanbic IBTC Asset Management Ltd,Atedo N A Peterside,executive
+Stanbic IBTC Asset Management Ltd,Standard Bank Group Limited,Atedo N A Peterside,executive
+Standard Bank Group Limited,Cadbury Nigeria Plc,Atedo N A Peterside,executive
+Cadbury Nigeria Plc,Standard Bank Group Limited,Atedo N A Peterside,executive
+Standard Bank Group Limited,Stanbic IBTC Holdings PLC,Atedo N A Peterside,executive
+Stanbic IBTC Holdings PLC,Standard Bank Group Limited,Atedo N A Peterside,executive
+Standard Bank Group Limited,Unilever Nigeria Plc,Atedo N A Peterside,executive
+Unilever Nigeria Plc,Standard Bank Group Limited,Atedo N A Peterside,executive
+Nigerian Breweries Plc,The Standard Bank of South Africa Limited,Atedo N A Peterside,executive
+The Standard Bank of South Africa Limited,Nigerian Breweries Plc,Atedo N A Peterside,executive
+Nigerian Breweries Plc,Stanbic IBTC Asset Management Ltd,Atedo N A Peterside,executive
+Stanbic IBTC Asset Management Ltd,Nigerian Breweries Plc,Atedo N A Peterside,executive
+Nigerian Breweries Plc,Cadbury Nigeria Plc,Atedo N A Peterside,executive
+Cadbury Nigeria Plc,Nigerian Breweries Plc,Atedo N A Peterside,executive
+Nigerian Breweries Plc,Stanbic IBTC Holdings PLC,Atedo N A Peterside,executive
+Stanbic IBTC Holdings PLC,Nigerian Breweries Plc,Atedo N A Peterside,executive
+Nigerian Breweries Plc,Unilever Nigeria Plc,Atedo N A Peterside,executive
+Unilever Nigeria Plc,Nigerian Breweries Plc,Atedo N A Peterside,executive
+The Standard Bank of South Africa Limited,Stanbic IBTC Asset Management Ltd,Atedo N A Peterside,executive
+Stanbic IBTC Asset Management Ltd,The Standard Bank of South Africa Limited,Atedo N A Peterside,executive
+The Standard Bank of South Africa Limited,Cadbury Nigeria Plc,Atedo N A Peterside,executive
+Cadbury Nigeria Plc,The Standard Bank of South Africa Limited,Atedo N A Peterside,executive
+The Standard Bank of South Africa Limited,Stanbic IBTC Holdings PLC,Atedo N A Peterside,executive
+Stanbic IBTC Holdings PLC,The Standard Bank of South Africa Limited,Atedo N A Peterside,executive
+The Standard Bank of South Africa Limited,Unilever Nigeria Plc,Atedo N A Peterside,executive
+Unilever Nigeria Plc,The Standard Bank of South Africa Limited,Atedo N A Peterside,executive
+Stanbic IBTC Asset Management Ltd,Cadbury Nigeria Plc,Atedo N A Peterside,executive
+Cadbury Nigeria Plc,Stanbic IBTC Asset Management Ltd,Atedo N A Peterside,executive
+Stanbic IBTC Asset Management Ltd,Stanbic IBTC Holdings PLC,Atedo N A Peterside,executive
+Stanbic IBTC Holdings PLC,Stanbic IBTC Asset Management Ltd,Atedo N A Peterside,executive
+Stanbic IBTC Asset Management Ltd,Unilever Nigeria Plc,Atedo N A Peterside,executive
+Unilever Nigeria Plc,Stanbic IBTC Asset Management Ltd,Atedo N A Peterside,executive
+Cadbury Nigeria Plc,Stanbic IBTC Holdings PLC,Atedo N A Peterside,executive
+Stanbic IBTC Holdings PLC,Cadbury Nigeria Plc,Atedo N A Peterside,executive
+Cadbury Nigeria Plc,Unilever Nigeria Plc,Atedo N A Peterside,executive
+Unilever Nigeria Plc,Cadbury Nigeria Plc,Atedo N A Peterside,executive
+Stanbic IBTC Holdings PLC,Unilever Nigeria Plc,Atedo N A Peterside,executive
+Unilever Nigeria Plc,Stanbic IBTC Holdings PLC,Atedo N A Peterside,executive
+FBN Holdings Plc,Ecobank Nigeria Limited,Ayoola Oba Otudeko,executive
+Ecobank Nigeria Limited,FBN Holdings Plc,Ayoola Oba Otudeko,executive
+FBN Holdings Plc,Honeywell Flour Mills Plc,Ayoola Oba Otudeko,executive
+Honeywell Flour Mills Plc,FBN Holdings Plc,Ayoola Oba Otudeko,executive
+FBN Holdings Plc,Ikeja Hotel Plc,Ayoola Oba Otudeko,executive
+Ikeja Hotel Plc,FBN Holdings Plc,Ayoola Oba Otudeko,executive
+Ecobank Nigeria Limited,Honeywell Flour Mills Plc,Ayoola Oba Otudeko,executive
+Honeywell Flour Mills Plc,Ecobank Nigeria Limited,Ayoola Oba Otudeko,executive
+Ecobank Nigeria Limited,Ikeja Hotel Plc,Ayoola Oba Otudeko,executive
+Ikeja Hotel Plc,Ecobank Nigeria Limited,Ayoola Oba Otudeko,executive
+Honeywell Flour Mills Plc,Ikeja Hotel Plc,Ayoola Oba Otudeko,executive
+Ikeja Hotel Plc,Honeywell Flour Mills Plc,Ayoola Oba Otudeko,executive
+Leadway Assurance Company Limited,First Bank of Nigeria Limited,Babatunde Hassan Odukale,executive
+First Bank of Nigeria Limited,Leadway Assurance Company Limited,Babatunde Hassan Odukale,executive
+Wema Bank Plc,UAC of Nigeria Plc,Babatunde Oladele Kasali,executive
+UAC of Nigeria Plc,Wema Bank Plc,Babatunde Oladele Kasali,executive
+Standard Bank Group Limited,The Standard Bank of South Africa Limited,Bajabulile Swazi Tshabalala,executive
+The Standard Bank of South Africa Limited,Standard Bank Group Limited,Bajabulile Swazi Tshabalala,executive
+Vitafoam Nigeria Plc,DN Tyre & Rubber Plc,Bamidele Osuolale Makanjuola,executive
+DN Tyre & Rubber Plc,Vitafoam Nigeria Plc,Bamidele Osuolale Makanjuola,executive
+FBN Holdings Plc,First Bank of Nigeria Limited,Bello Mohammed Maccido,executive
+First Bank of Nigeria Limited,FBN Holdings Plc,Bello Mohammed Maccido,executive
+Standard Bank Group Limited,The Standard Bank of South Africa Limited,Ben J Kruger,executive
+The Standard Bank of South Africa Limited,Standard Bank Group Limited,Ben J Kruger,executive
+Dangote Sugar Refinery Plc,Nigeria Deposit Insurance Corporation,Benedikter China Molokwu,executive
+Nigeria Deposit Insurance Corporation,Dangote Sugar Refinery Plc,Benedikter China Molokwu,executive
+FBN Holdings Plc,Kakawa Discount House Limited,Bisi Stephen Onasanya,executive
+Kakawa Discount House Limited,FBN Holdings Plc,Bisi Stephen Onasanya,executive
+Guinness Nigeria Plc,Unic Insurance PLC,Bismarck Jemide Rewane,executive
+Unic Insurance PLC,Guinness Nigeria Plc,Bismarck Jemide Rewane,executive
+Diamond Bank Plc,CRC Credit Bureau Limited,Caroline Chidiebere Anyanwu,executive
+CRC Credit Bureau Limited,Diamond Bank Plc,Caroline Chidiebere Anyanwu,executive
+Seplat Petroleum Development Company Plc,BGL Plc & Co. Incorporated,Charles Okeahalam,executive
+BGL Plc & Co. Incorporated,Seplat Petroleum Development Company Plc,Charles Okeahalam,executive
+Seplat Petroleum Development Company Plc,Group Africa Growth Holdings,Charles Okeahalam,executive
+Group Africa Growth Holdings,Seplat Petroleum Development Company Plc,Charles Okeahalam,executive
+BGL Plc & Co. Incorporated,Group Africa Growth Holdings,Charles Okeahalam,executive
+Group Africa Growth Holdings,BGL Plc & Co. Incorporated,Charles Okeahalam,executive
+BGL Plc & Co. Incorporated,Transnational Corporation of Nigeria Plc,Chibundu N Edozie,executive
+Transnational Corporation of Nigeria Plc,BGL Plc & Co. Incorporated,Chibundu N Edozie,executive
+Royal Exchange Plc,The Lion of Africa Insurance Company Limited,Chike Ukwabuine Alex Mokwunye,executive
+The Lion of Africa Insurance Company Limited,Royal Exchange Plc,Chike Ukwabuine Alex Mokwunye,executive
+Diamond Bank Plc,Diamond Securities Limited,Chris Ike Ogbechie,executive
+Diamond Securities Limited,Diamond Bank Plc,Chris Ike Ogbechie,executive
+Diamond Bank Plc,Red Star Express Plc,Chris Ike Ogbechie,executive
+Red Star Express Plc,Diamond Bank Plc,Chris Ike Ogbechie,executive
+Diamond Bank Plc,Starcomms Plc,Chris Ike Ogbechie,executive
+Starcomms Plc,Diamond Bank Plc,Chris Ike Ogbechie,executive
+Diamond Securities Limited,Red Star Express Plc,Chris Ike Ogbechie,executive
+Red Star Express Plc,Diamond Securities Limited,Chris Ike Ogbechie,executive
+Diamond Securities Limited,Starcomms Plc,Chris Ike Ogbechie,executive
+Starcomms Plc,Diamond Securities Limited,Chris Ike Ogbechie,executive
+Red Star Express Plc,Starcomms Plc,Chris Ike Ogbechie,executive
+Starcomms Plc,Red Star Express Plc,Chris Ike Ogbechie,executive
+Fidelity Bank Plc,John Holt Plc,Christopher Ikechir Ezeh,executive
+John Holt Plc,Fidelity Bank Plc,Christopher Ikechir Ezeh,executive
+Nigerian Aviation Handling Company Plc,Stokvis Nigeria Plc,Christopher O Oshiafi,executive
+Stokvis Nigeria Plc,Nigerian Aviation Handling Company Plc,Christopher O Oshiafi,executive
+Zenith Bank Plc,Curative Care network,Chukuka S Enwemeka,executive
+Curative Care network,Zenith Bank Plc,Chukuka S Enwemeka,executive
+Pharma-Deko Plc,STACO Insurance Plc,Collins Chikezie Chikeluba,executive
+STACO Insurance Plc,Pharma-Deko Plc,Collins Chikezie Chikeluba,executive
+Pharma-Deko Plc,Secure Electronic Technology Plc,Collins Chikezie Chikeluba,executive
+Secure Electronic Technology Plc,Pharma-Deko Plc,Collins Chikezie Chikeluba,executive
+Pharma-Deko Plc,ASO Savings and Loans Plc,Collins Chikezie Chikeluba,executive
+ASO Savings and Loans Plc,Pharma-Deko Plc,Collins Chikezie Chikeluba,executive
+STACO Insurance Plc,Secure Electronic Technology Plc,Collins Chikezie Chikeluba,executive
+Secure Electronic Technology Plc,STACO Insurance Plc,Collins Chikezie Chikeluba,executive
+STACO Insurance Plc,ASO Savings and Loans Plc,Collins Chikezie Chikeluba,executive
+ASO Savings and Loans Plc,STACO Insurance Plc,Collins Chikezie Chikeluba,executive
+Secure Electronic Technology Plc,ASO Savings and Loans Plc,Collins Chikezie Chikeluba,executive
+ASO Savings and Loans Plc,Secure Electronic Technology Plc,Collins Chikezie Chikeluba,executive
+Union Bank of Nigeria Plc,Seven Energy International Limited,Cyril Akporuere Odu,executive
+Seven Energy International Limited,Union Bank of Nigeria Plc,Cyril Akporuere Odu,executive
+Union Bank of Nigeria Plc,Oracle Energy Corp,Cyril Akporuere Odu,executive
+Oracle Energy Corp,Union Bank of Nigeria Plc,Cyril Akporuere Odu,executive
+Seven Energy International Limited,Oracle Energy Corp,Cyril Akporuere Odu,executive
+Oracle Energy Corp,Seven Energy International Limited,Cyril Akporuere Odu,executive
+International Institute For Sustainable Development,International Institute For Sustainable Development private comp.,Daniel Gagnier,executive
+International Institute For Sustainable Development private comp.,International Institute For Sustainable Development,Daniel Gagnier,executive
+Ecobank Transnational Incorporated,Erin Energy Corporation,Daniel M Matjila,executive
+Erin Energy Corporation,Ecobank Transnational Incorporated,Daniel M Matjila,executive
+Royal Exchange Plc,The Lion of Africa Insurance Company Limited,Daniel Maegerle,executive
+The Lion of Africa Insurance Company Limited,Royal Exchange Plc,Daniel Maegerle,executive
+Nestle Nigeria Plc,Cutix Plc,David C Ifezulike,executive
+Cutix Plc,Nestle Nigeria Plc,David C Ifezulike,executive
+Nigeria Deposit Insurance Corporation,Nigeria Deposit Insurance Corporation,David Oghene,executive
+Nigeria Deposit Insurance Corporation,Nigeria Deposit Insurance Corporation,David Oghene,executive
+Nigerian Aviation Handling Company Plc,Nigerian Aviation Handling Company Plc,David Thomas,executive
+Nigerian Aviation Handling Company Plc,Nigerian Aviation Handling Company Plc,David Thomas,executive
+Nigerian Aviation Handling Company Plc,Nigerian Aviation Handling Company Plc,Denis Hasdenteufel,executive
+Nigerian Aviation Handling Company Plc,Nigerian Aviation Handling Company Plc,Denis Hasdenteufel,executive
+Dangote Cement Plc,Benue Cement Company Plc,Devakumar Victor Gnanadoss Edwin,executive
+Benue Cement Company Plc,Dangote Cement Plc,Devakumar Victor Gnanadoss Edwin,executive
+Coca-Cola HBC AG,Nigerian Bottling Company Plc,Dimitris Lois,executive
+Nigerian Bottling Company Plc,Coca-Cola HBC AG,Dimitris Lois,executive
+Standard Bank Group Limited,The Standard Bank of South Africa Limited,E M Woods,executive
+The Standard Bank of South Africa Limited,Standard Bank Group Limited,E M Woods,executive
+Associated Discount House Limited,Consolidated Discounts Limited,Ebenezer Olufowose,executive
+Consolidated Discounts Limited,Associated Discount House Limited,Ebenezer Olufowose,executive
+Zenith Securities Limited,Access Bank Plc,Elias Igbinakenzua,executive
+Access Bank Plc,Zenith Securities Limited,Elias Igbinakenzua,executive
+Africa Finance Corporation,Union Bank of Nigeria Plc,Emeka Emuwa,executive
+Union Bank of Nigeria Plc,Africa Finance Corporation,Emeka Emuwa,executive
+Africa Finance Corporation,Union Assurance Company PLC,Emeka Emuwa,executive
+Union Assurance Company PLC,Africa Finance Corporation,Emeka Emuwa,executive
+Union Bank of Nigeria Plc,Union Assurance Company PLC,Emeka Emuwa,executive
+Union Assurance Company PLC,Union Bank of Nigeria Plc,Emeka Emuwa,executive
+Flour Mills of Nigeria PLC,Northern Nigeria Flour Mills Plc,Emmanuel Akwari Ukpabi,executive
+Northern Nigeria Flour Mills Plc,Flour Mills of Nigeria PLC,Emmanuel Akwari Ukpabi,executive
+Dangote Cement Plc,Ecobank Transnational Incorporated,Emmanuel Ikazoboh,executive
+Ecobank Transnational Incorporated,Dangote Cement Plc,Emmanuel Ikazoboh,executive
+Dangote Cement Plc,Nampak Limited,Emmanuel Ikazoboh,executive
+Nampak Limited,Dangote Cement Plc,Emmanuel Ikazoboh,executive
+Dangote Cement Plc,International Institute For Sustainable Development,Emmanuel Ikazoboh,executive
+International Institute For Sustainable Development,Dangote Cement Plc,Emmanuel Ikazoboh,executive
+Dangote Cement Plc,International Institute For Sustainable Development private comp.,Emmanuel Ikazoboh,executive
+International Institute For Sustainable Development private comp.,Dangote Cement Plc,Emmanuel Ikazoboh,executive
+Ecobank Transnational Incorporated,Nampak Limited,Emmanuel Ikazoboh,executive
+Nampak Limited,Ecobank Transnational Incorporated,Emmanuel Ikazoboh,executive
+Ecobank Transnational Incorporated,International Institute For Sustainable Development,Emmanuel Ikazoboh,executive
+International Institute For Sustainable Development,Ecobank Transnational Incorporated,Emmanuel Ikazoboh,executive
+Ecobank Transnational Incorporated,International Institute For Sustainable Development private comp.,Emmanuel Ikazoboh,executive
+International Institute For Sustainable Development private comp.,Ecobank Transnational Incorporated,Emmanuel Ikazoboh,executive
+Nampak Limited,International Institute For Sustainable Development,Emmanuel Ikazoboh,executive
+International Institute For Sustainable Development,Nampak Limited,Emmanuel Ikazoboh,executive
+Nampak Limited,International Institute For Sustainable Development private comp.,Emmanuel Ikazoboh,executive
+International Institute For Sustainable Development private comp.,Nampak Limited,Emmanuel Ikazoboh,executive
+International Institute For Sustainable Development,International Institute For Sustainable Development private comp.,Emmanuel Ikazoboh,executive
+International Institute For Sustainable Development private comp.,International Institute For Sustainable Development,Emmanuel Ikazoboh,executive
+United Bank for Africa (Ghana) Limited,Transnational Corporation of Nigeria Plc,Emmanuel Nwabuikwu Nnorom,executive
+Transnational Corporation of Nigeria Plc,United Bank for Africa (Ghana) Limited,Emmanuel Nwabuikwu Nnorom,executive
+United Bank for Africa (Ghana) Limited,Transcorp Hotels Plc,Emmanuel Nwabuikwu Nnorom,executive
+Transcorp Hotels Plc,United Bank for Africa (Ghana) Limited,Emmanuel Nwabuikwu Nnorom,executive
+United Bank for Africa (Ghana) Limited,UBA Metropolitan Life Insurance Ltd,Emmanuel Nwabuikwu Nnorom,executive
+UBA Metropolitan Life Insurance Ltd,United Bank for Africa (Ghana) Limited,Emmanuel Nwabuikwu Nnorom,executive
+United Bank for Africa (Ghana) Limited,United Capital Plc,Emmanuel Nwabuikwu Nnorom,executive
+United Capital Plc,United Bank for Africa (Ghana) Limited,Emmanuel Nwabuikwu Nnorom,executive
+Transnational Corporation of Nigeria Plc,Transcorp Hotels Plc,Emmanuel Nwabuikwu Nnorom,executive
+Transcorp Hotels Plc,Transnational Corporation of Nigeria Plc,Emmanuel Nwabuikwu Nnorom,executive
+Transnational Corporation of Nigeria Plc,UBA Metropolitan Life Insurance Ltd,Emmanuel Nwabuikwu Nnorom,executive
+UBA Metropolitan Life Insurance Ltd,Transnational Corporation of Nigeria Plc,Emmanuel Nwabuikwu Nnorom,executive
+Transnational Corporation of Nigeria Plc,United Capital Plc,Emmanuel Nwabuikwu Nnorom,executive
+United Capital Plc,Transnational Corporation of Nigeria Plc,Emmanuel Nwabuikwu Nnorom,executive
+Transcorp Hotels Plc,UBA Metropolitan Life Insurance Ltd,Emmanuel Nwabuikwu Nnorom,executive
+UBA Metropolitan Life Insurance Ltd,Transcorp Hotels Plc,Emmanuel Nwabuikwu Nnorom,executive
+Transcorp Hotels Plc,United Capital Plc,Emmanuel Nwabuikwu Nnorom,executive
+United Capital Plc,Transcorp Hotels Plc,Emmanuel Nwabuikwu Nnorom,executive
+UBA Metropolitan Life Insurance Ltd,United Capital Plc,Emmanuel Nwabuikwu Nnorom,executive
+United Capital Plc,UBA Metropolitan Life Insurance Ltd,Emmanuel Nwabuikwu Nnorom,executive
+Dangote Cement Plc,Afromedia PLC,Ernest C Ebi,executive
+Afromedia PLC,Dangote Cement Plc,Ernest C Ebi,executive
+Crusader Nigeria Plc,Capital Bancorp Limited,Ethel Olamide Fadipe,executive
+Capital Bancorp Limited,Crusader Nigeria Plc,Ethel Olamide Fadipe,executive
+Ecobank Transnational Incorporated,Ecobank Nigeria Limited,Evelyne Tall Daouda,executive
+Ecobank Nigeria Limited,Ecobank Transnational Incorporated,Evelyne Tall Daouda,executive
+Ecobank Transnational Incorporated,Ecobank Ghana Limited,Evelyne Tall Daouda,executive
+Ecobank Ghana Limited,Ecobank Transnational Incorporated,Evelyne Tall Daouda,executive
+Ecobank Transnational Incorporated,Ecobank Kenya Limited,Evelyne Tall Daouda,executive
+Ecobank Kenya Limited,Ecobank Transnational Incorporated,Evelyne Tall Daouda,executive
+Ecobank Nigeria Limited,Ecobank Ghana Limited,Evelyne Tall Daouda,executive
+Ecobank Ghana Limited,Ecobank Nigeria Limited,Evelyne Tall Daouda,executive
+Ecobank Nigeria Limited,Ecobank Kenya Limited,Evelyne Tall Daouda,executive
+Ecobank Kenya Limited,Ecobank Nigeria Limited,Evelyne Tall Daouda,executive
+Ecobank Ghana Limited,Ecobank Kenya Limited,Evelyne Tall Daouda,executive
+Ecobank Kenya Limited,Ecobank Ghana Limited,Evelyne Tall Daouda,executive
+Nigerian Aviation Handling Company Plc,Cement Company of Northern Nigeria Plc,Faruk Umar,executive
+Cement Company of Northern Nigeria Plc,Nigerian Aviation Handling Company Plc,Faruk Umar,executive
+Nigerian Aviation Handling Company Plc,Nigerian Aviation Handling Company Plc,Faruk Umar,executive
+Nigerian Aviation Handling Company Plc,Nigerian Aviation Handling Company Plc,Faruk Umar,executive
+Nigerian Aviation Handling Company Plc,Union Homes Savings and Loans Plc,Faruk Umar,executive
+Union Homes Savings and Loans Plc,Nigerian Aviation Handling Company Plc,Faruk Umar,executive
+Cement Company of Northern Nigeria Plc,Nigerian Aviation Handling Company Plc,Faruk Umar,executive
+Nigerian Aviation Handling Company Plc,Cement Company of Northern Nigeria Plc,Faruk Umar,executive
+Cement Company of Northern Nigeria Plc,Union Homes Savings and Loans Plc,Faruk Umar,executive
+Union Homes Savings and Loans Plc,Cement Company of Northern Nigeria Plc,Faruk Umar,executive
+Nigerian Aviation Handling Company Plc,Union Homes Savings and Loans Plc,Faruk Umar,executive
+Union Homes Savings and Loans Plc,Nigerian Aviation Handling Company Plc,Faruk Umar,executive
+Ikeja Hotel Plc,Tourist Company of Nigeria Plc,Felix Ovuodoroye Ibru,executive
+Tourist Company of Nigeria Plc,Ikeja Hotel Plc,Felix Ovuodoroye Ibru,executive
+Fidson Healthcare Plc,NEM Insurance Plc,Fidelis Akhagboso Ayebae,executive
+NEM Insurance Plc,Fidson Healthcare Plc,Fidelis Akhagboso Ayebae,executive
+Omatek Ventures Plc,Vitafoam Nigeria Plc,Florence O Seriki,executive
+Vitafoam Nigeria Plc,Omatek Ventures Plc,Florence O Seriki,executive
+NICON Hilton Hotel,Main One Cable Company Nigeria Ltd,Fola Adeola,executive
+Main One Cable Company Nigeria Ltd,NICON Hilton Hotel,Fola Adeola,executive
+Flour Mills of Nigeria PLC,Pharma-Deko Plc,Folarin Rotimi Abiola Williams,executive
+Pharma-Deko Plc,Flour Mills of Nigeria PLC,Folarin Rotimi Abiola Williams,executive
+PZ Cussons Plc,Mouka Limited,Frances Ngozichukwuka Oluwatoyn Edozien,executive
+Mouka Limited,PZ Cussons Plc,Frances Ngozichukwuka Oluwatoyn Edozien,executive
+Oando PLC,Heritage Banking Company Limited,Francesco Cuzzocrea,executive
+Heritage Banking Company Limited,Oando PLC,Francesco Cuzzocrea,executive
+Niger Insurance Plc,Guinea Insurance Plc,Frederick Nnamdi Udechukwu,executive
+Guinea Insurance Plc,Niger Insurance Plc,Frederick Nnamdi Udechukwu,executive
+PZ Cussons Nigeria Plc,PZ Cussons Plc,G Alex Kanellis,executive
+PZ Cussons Plc,PZ Cussons Nigeria Plc,G Alex Kanellis,executive
+Nestle Nigeria Plc,MTN Nigeria Communications Limited,Gbenga Oyebode,executive
+MTN Nigeria Communications Limited,Nestle Nigeria Plc,Gbenga Oyebode,executive
+Nestle Nigeria Plc,Okomu Oil Palm Company Plc,Gbenga Oyebode,executive
+Okomu Oil Palm Company Plc,Nestle Nigeria Plc,Gbenga Oyebode,executive
+Nestle Nigeria Plc,Crusader Nigeria Plc,Gbenga Oyebode,executive
+Crusader Nigeria Plc,Nestle Nigeria Plc,Gbenga Oyebode,executive
+MTN Nigeria Communications Limited,Okomu Oil Palm Company Plc,Gbenga Oyebode,executive
+Okomu Oil Palm Company Plc,MTN Nigeria Communications Limited,Gbenga Oyebode,executive
+MTN Nigeria Communications Limited,Crusader Nigeria Plc,Gbenga Oyebode,executive
+Crusader Nigeria Plc,MTN Nigeria Communications Limited,Gbenga Oyebode,executive
+Okomu Oil Palm Company Plc,Crusader Nigeria Plc,Gbenga Oyebode,executive
+Crusader Nigeria Plc,Okomu Oil Palm Company Plc,Gbenga Oyebode,executive
+Flour Mills of Nigeria PLC,Northern Nigeria Flour Mills Plc,George S Coumantaros,executive
+Northern Nigeria Flour Mills Plc,Flour Mills of Nigeria PLC,George S Coumantaros,executive
+Union Assurance Company PLC,The Lion of Africa Insurance Company Limited,Godwin Ejembi Odah,executive
+The Lion of Africa Insurance Company Limited,Union Assurance Company PLC,Godwin Ejembi Odah,executive
+Zenith Securities Limited,Zenith Bank (Gambia) Limited,Godwin I Emefiele,executive
+Zenith Bank (Gambia) Limited,Zenith Securities Limited,Godwin I Emefiele,executive
+Ikeja Hotel Plc,DN Tyre & Rubber Plc,Goodie Minabo Ibru,executive
+DN Tyre & Rubber Plc,Ikeja Hotel Plc,Goodie Minabo Ibru,executive
+Ikeja Hotel Plc,Custodian and Allied Insurance Limited,Goodie Minabo Ibru,executive
+Custodian and Allied Insurance Limited,Ikeja Hotel Plc,Goodie Minabo Ibru,executive
+Ikeja Hotel Plc,Niger Delta Exploration & Production Plc,Goodie Minabo Ibru,executive
+Niger Delta Exploration & Production Plc,Ikeja Hotel Plc,Goodie Minabo Ibru,executive
+Ikeja Hotel Plc,Tourist Company of Nigeria Plc,Goodie Minabo Ibru,executive
+Tourist Company of Nigeria Plc,Ikeja Hotel Plc,Goodie Minabo Ibru,executive
+Ikeja Hotel Plc,Capital Hotels PLC,Goodie Minabo Ibru,executive
+Capital Hotels PLC,Ikeja Hotel Plc,Goodie Minabo Ibru,executive
+DN Tyre & Rubber Plc,Custodian and Allied Insurance Limited,Goodie Minabo Ibru,executive
+Custodian and Allied Insurance Limited,DN Tyre & Rubber Plc,Goodie Minabo Ibru,executive
+DN Tyre & Rubber Plc,Niger Delta Exploration & Production Plc,Goodie Minabo Ibru,executive
+Niger Delta Exploration & Production Plc,DN Tyre & Rubber Plc,Goodie Minabo Ibru,executive
+DN Tyre & Rubber Plc,Tourist Company of Nigeria Plc,Goodie Minabo Ibru,executive
+Tourist Company of Nigeria Plc,DN Tyre & Rubber Plc,Goodie Minabo Ibru,executive
+DN Tyre & Rubber Plc,Capital Hotels PLC,Goodie Minabo Ibru,executive
+Capital Hotels PLC,DN Tyre & Rubber Plc,Goodie Minabo Ibru,executive
+Custodian and Allied Insurance Limited,Niger Delta Exploration & Production Plc,Goodie Minabo Ibru,executive
+Niger Delta Exploration & Production Plc,Custodian and Allied Insurance Limited,Goodie Minabo Ibru,executive
+Custodian and Allied Insurance Limited,Tourist Company of Nigeria Plc,Goodie Minabo Ibru,executive
+Tourist Company of Nigeria Plc,Custodian and Allied Insurance Limited,Goodie Minabo Ibru,executive
+Custodian and Allied Insurance Limited,Capital Hotels PLC,Goodie Minabo Ibru,executive
+Capital Hotels PLC,Custodian and Allied Insurance Limited,Goodie Minabo Ibru,executive
+Niger Delta Exploration & Production Plc,Tourist Company of Nigeria Plc,Goodie Minabo Ibru,executive
+Tourist Company of Nigeria Plc,Niger Delta Exploration & Production Plc,Goodie Minabo Ibru,executive
+Niger Delta Exploration & Production Plc,Capital Hotels PLC,Goodie Minabo Ibru,executive
+Capital Hotels PLC,Niger Delta Exploration & Production Plc,Goodie Minabo Ibru,executive
+Tourist Company of Nigeria Plc,Capital Hotels PLC,Goodie Minabo Ibru,executive
+Capital Hotels PLC,Tourist Company of Nigeria Plc,Goodie Minabo Ibru,executive
+FCMB Group Plc,Arco Petrochemical Engineering Company Limited,Gregory Omosigho Ero,executive
+Arco Petrochemical Engineering Company Limited,FCMB Group Plc,Gregory Omosigho Ero,executive
+Lafarge Africa Plc,AshakaCem Plc,Guillaume Andre Philippe Roux,executive
+AshakaCem Plc,Lafarge Africa Plc,Guillaume Andre Philippe Roux,executive
+Nigerian Aviation Handling Company Plc,Nigerian Aviation Handling Company Plc,Hadiza Aliko Mohammed,executive
+Nigerian Aviation Handling Company Plc,Nigerian Aviation Handling Company Plc,Hadiza Aliko Mohammed,executive
+Nigerian Bottling Company Plc,Hartford Steel Technologies,Haralambos G David,executive
+Hartford Steel Technologies,Nigerian Bottling Company Plc,Haralambos G David,executive
+Beta Glass Plc,A.G. Leventis (Nigeria) PLC,Haralambos George David,executive
+A.G. Leventis (Nigeria) PLC,Beta Glass Plc,Haralambos George David,executive
+ASO Savings and Loans Plc,Nigeria Sovereign Investment Authority,Hassan T Musa Usman,executive
+Nigeria Sovereign Investment Authority,ASO Savings and Loans Plc,Hassan T Musa Usman,executive
+Access Bank Plc,Intercontinental Homes Savings & Loans Plc,Herbert Onyewumbu Wigwe,executive
+Intercontinental Homes Savings & Loans Plc,Access Bank Plc,Herbert Onyewumbu Wigwe,executive
+Access Bank Plc,Associated Discount House Limited,Herbert Onyewumbu Wigwe,executive
+Associated Discount House Limited,Access Bank Plc,Herbert Onyewumbu Wigwe,executive
+Access Bank Plc,Central Securities Clearing Systems Limited,Herbert Onyewumbu Wigwe,executive
+Central Securities Clearing Systems Limited,Access Bank Plc,Herbert Onyewumbu Wigwe,executive
+Intercontinental Homes Savings & Loans Plc,Associated Discount House Limited,Herbert Onyewumbu Wigwe,executive
+Associated Discount House Limited,Intercontinental Homes Savings & Loans Plc,Herbert Onyewumbu Wigwe,executive
+Intercontinental Homes Savings & Loans Plc,Central Securities Clearing Systems Limited,Herbert Onyewumbu Wigwe,executive
+Central Securities Clearing Systems Limited,Intercontinental Homes Savings & Loans Plc,Herbert Onyewumbu Wigwe,executive
+Associated Discount House Limited,Central Securities Clearing Systems Limited,Herbert Onyewumbu Wigwe,executive
+Central Securities Clearing Systems Limited,Associated Discount House Limited,Herbert Onyewumbu Wigwe,executive
+Guaranty Trust Bank Plc,Lekoil Limited,Hezekiah Adesola Oyinlola,executive
+Lekoil Limited,Guaranty Trust Bank Plc,Hezekiah Adesola Oyinlola,executive
+Union Bank of Nigeria Plc,Consolidated Discounts Limited,Ibrahim Abubakar Kwargana,executive
+Consolidated Discounts Limited,Union Bank of Nigeria Plc,Ibrahim Abubakar Kwargana,executive
+Leadway Assurance Company Limited,Leadway Assurance Company Limited,Ibrahim Hassan Hadejia,executive
+Leadway Assurance Company Limited,Leadway Assurance Company Limited,Ibrahim Hassan Hadejia,executive
+Cadbury Nigeria Plc,First Bank of Nigeria Limited,Ibukun Abiodun Awosika,executive
+First Bank of Nigeria Limited,Cadbury Nigeria Plc,Ibukun Abiodun Awosika,executive
+Cadbury Nigeria Plc,Nigeria Sovereign Investment Authority,Ibukun Abiodun Awosika,executive
+Nigeria Sovereign Investment Authority,Cadbury Nigeria Plc,Ibukun Abiodun Awosika,executive
+First Bank of Nigeria Limited,Nigeria Sovereign Investment Authority,Ibukun Abiodun Awosika,executive
+Nigeria Sovereign Investment Authority,First Bank of Nigeria Limited,Ibukun Abiodun Awosika,executive
+United Bank for Africa (Ghana) Limited,Abbey Building Society Plc,Ifeanyi Boniface Ochonogor,executive
+Abbey Building Society Plc,United Bank for Africa (Ghana) Limited,Ifeanyi Boniface Ochonogor,executive
+Stanbic IBTC Asset Management Ltd,Stanbic IBTC Holdings PLC,Ifeoma Lilian Esiri,executive
+Stanbic IBTC Holdings PLC,Stanbic IBTC Asset Management Ltd,Ifeoma Lilian Esiri,executive
+Seplat Petroleum Development Company Plc,Diamond Bank Plc,Ifueko Marina Omoigui Okauru,executive
+Diamond Bank Plc,Seplat Petroleum Development Company Plc,Ifueko Marina Omoigui Okauru,executive
+Nigerian Aviation Handling Company Plc,Nigerian Aviation Handling Company Plc,Ikechukwu Nwachukwu,executive
+Nigerian Aviation Handling Company Plc,Nigerian Aviation Handling Company Plc,Ikechukwu Nwachukwu,executive
+Kakawa Discount House Limited,Guaranty Trust Bank Plc,J K Olusegun Agbaje,executive
+Guaranty Trust Bank Plc,Kakawa Discount House Limited,J K Olusegun Agbaje,executive
+Kakawa Discount House Limited,Guaranty Trust Bank (Ghana) Limited,J K Olusegun Agbaje,executive
+Guaranty Trust Bank (Ghana) Limited,Kakawa Discount House Limited,J K Olusegun Agbaje,executive
+Guaranty Trust Bank Plc,Guaranty Trust Bank (Ghana) Limited,J K Olusegun Agbaje,executive
+Guaranty Trust Bank (Ghana) Limited,Guaranty Trust Bank Plc,J K Olusegun Agbaje,executive
+Ecobank Nigeria Limited,Africa Finance Corporation,Jibril J Aku,executive
+Africa Finance Corporation,Ecobank Nigeria Limited,Jibril J Aku,executive
+Africa Finance Corporation,Zenith Bank Plc,Jim Ovia,executive
+Zenith Bank Plc,Africa Finance Corporation,Jim Ovia,executive
+Vitafoam Nigeria Plc,Vono Products PLC,Joel Olatoye Ajiga,executive
+Vono Products PLC,Vitafoam Nigeria Plc,Joel Olatoye Ajiga,executive
+Diamond Bank Plc,Linkage Assurance Plc,John D Edozien,executive
+Linkage Assurance Plc,Diamond Bank Plc,John D Edozien,executive
+Flour Mills of Nigeria PLC,Northern Nigeria Flour Mills Plc,John George Coumantarous,executive
+Northern Nigeria Flour Mills Plc,Flour Mills of Nigeria PLC,John George Coumantarous,executive
+Ecobank Nigeria Limited,Africa Finance Corporation,John Oche Aboh,executive
+Africa Finance Corporation,Ecobank Nigeria Limited,John Oche Aboh,executive
+Ecobank Nigeria Limited,Old Mutual Nigeria Life Assurance Company Limited,John Oche Aboh,executive
+Old Mutual Nigeria Life Assurance Company Limited,Ecobank Nigeria Limited,John Oche Aboh,executive
+Africa Finance Corporation,Old Mutual Nigeria Life Assurance Company Limited,John Oche Aboh,executive
+Old Mutual Nigeria Life Assurance Company Limited,Africa Finance Corporation,John Oche Aboh,executive
+Continental Reinsurance Plc,Custodian and Allied Insurance Limited,Johnnie F Wilcox,executive
+Custodian and Allied Insurance Limited,Continental Reinsurance Plc,Johnnie F Wilcox,executive
+Kakawa Discount House Limited,FCMB Group Plc,Jonathan A D Long,executive
+FCMB Group Plc,Kakawa Discount House Limited,Jonathan A D Long,executive
+Beta Glass Plc,A.G. Leventis (Nigeria) PLC,Joseph Babatunde Oke,executive
+A.G. Leventis (Nigeria) PLC,Beta Glass Plc,Joseph Babatunde Oke,executive
+Beta Glass Plc,Hartford Steel Technologies,Joseph Babatunde Oke,executive
+Hartford Steel Technologies,Beta Glass Plc,Joseph Babatunde Oke,executive
+A.G. Leventis (Nigeria) PLC,Hartford Steel Technologies,Joseph Babatunde Oke,executive
+Hartford Steel Technologies,A.G. Leventis (Nigeria) PLC,Joseph Babatunde Oke,executive
+Guinness Nigeria Plc,Unitrust Insurance Co. Ltd,Joseph O Irukwu,executive
+Unitrust Insurance Co. Ltd,Guinness Nigeria Plc,Joseph O Irukwu,executive
+Lafarge Africa Plc,Matna Foods Company Limited,Joseph Oladele Sanusi,executive
+Matna Foods Company Limited,Lafarge Africa Plc,Joseph Oladele Sanusi,executive
+Oando PLC,Oando Energy Resources Inc,Jubril Adewale Tinubu,executive
+Oando Energy Resources Inc,Oando PLC,Jubril Adewale Tinubu,executive
+Oando PLC,Equator Exploration Limited,Jubril Adewale Tinubu,executive
+Equator Exploration Limited,Oando PLC,Jubril Adewale Tinubu,executive
+Oando Energy Resources Inc,Equator Exploration Limited,Jubril Adewale Tinubu,executive
+Equator Exploration Limited,Oando Energy Resources Inc,Jubril Adewale Tinubu,executive
+Niger Insurance Plc,Express Discount Limited,Justus Clinton Uranta,executive
+Express Discount Limited,Niger Insurance Plc,Justus Clinton Uranta,executive
+Union Bank of Nigeria Plc,Union Assurance Company PLC,Kandolo Kasongo,executive
+Union Assurance Company PLC,Union Bank of Nigeria Plc,Kandolo Kasongo,executive
+A.G. Leventis (Nigeria) PLC,Royal Exchange Plc,Kenneth Ezewani Odogwu,executive
+Royal Exchange Plc,A.G. Leventis (Nigeria) PLC,Kenneth Ezewani Odogwu,executive
+Standard Bank Group Limited,The Standard Bank of South Africa Limited,Kgomotso Ditsebe Moroka,executive
+The Standard Bank of South Africa Limited,Standard Bank Group Limited,Kgomotso Ditsebe Moroka,executive
+Dangote Cement Plc,Emirates Global Aluminium,Khalid Al Bakhit,executive
+Emirates Global Aluminium,Dangote Cement Plc,Khalid Al Bakhit,executive
+Pharma-Deko Plc,Ecobank Nigeria Limited,Kolapo A Lawson,executive
+Ecobank Nigeria Limited,Pharma-Deko Plc,Kolapo A Lawson,executive
+Pharma-Deko Plc,Beta Glass Plc,Kolapo A Lawson,executive
+Beta Glass Plc,Pharma-Deko Plc,Kolapo A Lawson,executive
+Pharma-Deko Plc,Acorn Petroleum Plc,Kolapo A Lawson,executive
+Acorn Petroleum Plc,Pharma-Deko Plc,Kolapo A Lawson,executive
+Pharma-Deko Plc,Sovereign Trust Insurance Plc,Kolapo A Lawson,executive
+Sovereign Trust Insurance Plc,Pharma-Deko Plc,Kolapo A Lawson,executive
+Ecobank Nigeria Limited,Beta Glass Plc,Kolapo A Lawson,executive
+Beta Glass Plc,Ecobank Nigeria Limited,Kolapo A Lawson,executive
+Ecobank Nigeria Limited,Acorn Petroleum Plc,Kolapo A Lawson,executive
+Acorn Petroleum Plc,Ecobank Nigeria Limited,Kolapo A Lawson,executive
+Ecobank Nigeria Limited,Sovereign Trust Insurance Plc,Kolapo A Lawson,executive
+Sovereign Trust Insurance Plc,Ecobank Nigeria Limited,Kolapo A Lawson,executive
+Beta Glass Plc,Acorn Petroleum Plc,Kolapo A Lawson,executive
+Acorn Petroleum Plc,Beta Glass Plc,Kolapo A Lawson,executive
+Beta Glass Plc,Sovereign Trust Insurance Plc,Kolapo A Lawson,executive
+Sovereign Trust Insurance Plc,Beta Glass Plc,Kolapo A Lawson,executive
+Acorn Petroleum Plc,Sovereign Trust Insurance Plc,Kolapo A Lawson,executive
+Sovereign Trust Insurance Plc,Acorn Petroleum Plc,Kolapo A Lawson,executive
+Nigerian Breweries Plc,United Bank for Africa Plc,Kolawole Babalola Jamodu,executive
+United Bank for Africa Plc,Nigerian Breweries Plc,Kolawole Babalola Jamodu,executive
+Nigerian Breweries Plc,PZ Cussons Nigeria Plc,Kolawole Babalola Jamodu,executive
+PZ Cussons Nigeria Plc,Nigerian Breweries Plc,Kolawole Babalola Jamodu,executive
+United Bank for Africa Plc,PZ Cussons Nigeria Plc,Kolawole Babalola Jamodu,executive
+PZ Cussons Nigeria Plc,United Bank for Africa Plc,Kolawole Babalola Jamodu,executive
+Dangote Sugar Refinery Plc,Leadway Assurance Company Limited,Konyinsola Ajayi,executive
+Leadway Assurance Company Limited,Dangote Sugar Refinery Plc,Konyinsola Ajayi,executive
+Sterling Bank plc,Sterling Asset Management Trust Limited,Lanre Adesanya,executive
+Sterling Asset Management Trust Limited,Sterling Bank plc,Lanre Adesanya,executive
+Associated Discount House Limited,UAC of Nigeria Plc,Larry Ephraim Ettah,executive
+UAC of Nigeria Plc,Associated Discount House Limited,Larry Ephraim Ettah,executive
+Associated Discount House Limited,UACn Property Development Company Plc,Larry Ephraim Ettah,executive
+UACn Property Development Company Plc,Associated Discount House Limited,Larry Ephraim Ettah,executive
+Associated Discount House Limited,Portland Paints and Products Nigeria Plc,Larry Ephraim Ettah,executive
+Portland Paints and Products Nigeria Plc,Associated Discount House Limited,Larry Ephraim Ettah,executive
+Associated Discount House Limited,Livestock Feeds Plc,Larry Ephraim Ettah,executive
+Livestock Feeds Plc,Associated Discount House Limited,Larry Ephraim Ettah,executive
+Associated Discount House Limited,Chemical and Allied Products Plc,Larry Ephraim Ettah,executive
+Chemical and Allied Products Plc,Associated Discount House Limited,Larry Ephraim Ettah,executive
+UAC of Nigeria Plc,UACn Property Development Company Plc,Larry Ephraim Ettah,executive
+UACn Property Development Company Plc,UAC of Nigeria Plc,Larry Ephraim Ettah,executive
+UAC of Nigeria Plc,Portland Paints and Products Nigeria Plc,Larry Ephraim Ettah,executive
+Portland Paints and Products Nigeria Plc,UAC of Nigeria Plc,Larry Ephraim Ettah,executive
+UAC of Nigeria Plc,Livestock Feeds Plc,Larry Ephraim Ettah,executive
+Livestock Feeds Plc,UAC of Nigeria Plc,Larry Ephraim Ettah,executive
+UAC of Nigeria Plc,Chemical and Allied Products Plc,Larry Ephraim Ettah,executive
+Chemical and Allied Products Plc,UAC of Nigeria Plc,Larry Ephraim Ettah,executive
+UACn Property Development Company Plc,Portland Paints and Products Nigeria Plc,Larry Ephraim Ettah,executive
+Portland Paints and Products Nigeria Plc,UACn Property Development Company Plc,Larry Ephraim Ettah,executive
+UACn Property Development Company Plc,Livestock Feeds Plc,Larry Ephraim Ettah,executive
+Livestock Feeds Plc,UACn Property Development Company Plc,Larry Ephraim Ettah,executive
+UACn Property Development Company Plc,Chemical and Allied Products Plc,Larry Ephraim Ettah,executive
+Chemical and Allied Products Plc,UACn Property Development Company Plc,Larry Ephraim Ettah,executive
+Portland Paints and Products Nigeria Plc,Livestock Feeds Plc,Larry Ephraim Ettah,executive
+Livestock Feeds Plc,Portland Paints and Products Nigeria Plc,Larry Ephraim Ettah,executive
+Portland Paints and Products Nigeria Plc,Chemical and Allied Products Plc,Larry Ephraim Ettah,executive
+Chemical and Allied Products Plc,Portland Paints and Products Nigeria Plc,Larry Ephraim Ettah,executive
+Livestock Feeds Plc,Chemical and Allied Products Plc,Larry Ephraim Ettah,executive
+Chemical and Allied Products Plc,Livestock Feeds Plc,Larry Ephraim Ettah,executive
+Unilever Nigeria Plc,Mobil Oil Nigeria plc,Mallam Abba Kyari,executive
+Mobil Oil Nigeria plc,Unilever Nigeria Plc,Mallam Abba Kyari,executive
+Mobil Oil Nigeria plc,Footwear Accessories Manufacturing and Distribution Plc,Mayen M Adetiba,executive
+Footwear Accessories Manufacturing and Distribution Plc,Mobil Oil Nigeria plc,Mayen M Adetiba,executive
+Meristem Securities Limited,Eterna Plc,Michael Ade Ojo,executive
+Eterna Plc,Meristem Securities Limited,Michael Ade Ojo,executive
+International Institute For Sustainable Development,International Institute For Sustainable Development private comp.,Michael C Vukets,executive
+International Institute For Sustainable Development private comp.,International Institute For Sustainable Development,Michael C Vukets,executive
+Lafarge Africa Plc,Nigerian Aviation Handling Company Plc,Mobolaji Oludamilola Balogun,executive
+Nigerian Aviation Handling Company Plc,Lafarge Africa Plc,Mobolaji Oludamilola Balogun,executive
+Lafarge Africa Plc,Chapel Hill Denham Group,Mobolaji Oludamilola Balogun,executive
+Chapel Hill Denham Group,Lafarge Africa Plc,Mobolaji Oludamilola Balogun,executive
+Lafarge Africa Plc,Nigerian Aviation Handling Company Plc,Mobolaji Oludamilola Balogun,executive
+Nigerian Aviation Handling Company Plc,Lafarge Africa Plc,Mobolaji Oludamilola Balogun,executive
+Nigerian Aviation Handling Company Plc,Chapel Hill Denham Group,Mobolaji Oludamilola Balogun,executive
+Chapel Hill Denham Group,Nigerian Aviation Handling Company Plc,Mobolaji Oludamilola Balogun,executive
+Nigerian Aviation Handling Company Plc,Nigerian Aviation Handling Company Plc,Mobolaji Oludamilola Balogun,executive
+Nigerian Aviation Handling Company Plc,Nigerian Aviation Handling Company Plc,Mobolaji Oludamilola Balogun,executive
+Chapel Hill Denham Group,Nigerian Aviation Handling Company Plc,Mobolaji Oludamilola Balogun,executive
+Nigerian Aviation Handling Company Plc,Chapel Hill Denham Group,Mobolaji Oludamilola Balogun,executive
+Vono Products PLC,DN Tyre & Rubber Plc,Mohammed Jimoh Yinusa,executive
+DN Tyre & Rubber Plc,Vono Products PLC,Mohammed Jimoh Yinusa,executive
+Northern Nigeria Flour Mills Plc,Access Finance B.V,Mohammed Mahmoud Isa Dutse,executive
+Access Finance B.V,Northern Nigeria Flour Mills Plc,Mohammed Mahmoud Isa Dutse,executive
+Northern Nigeria Flour Mills Plc,Access Finance B.V.,Mohammed Mahmoud Isa Dutse,executive
+Access Finance B.V.,Northern Nigeria Flour Mills Plc,Mohammed Mahmoud Isa Dutse,executive
+Access Finance B.V,Access Finance B.V.,Mohammed Mahmoud Isa Dutse,executive
+Access Finance B.V.,Access Finance B.V,Mohammed Mahmoud Isa Dutse,executive
+Julius Berger Nigeria PLC,MainStreet Bank Limited,Mohammed Nurudeen Imam,executive
+MainStreet Bank Limited,Julius Berger Nigeria PLC,Mohammed Nurudeen Imam,executive
+TOTAL Nigeria Plc,Total Kenya Limited,Momar Nguer,executive
+Total Kenya Limited,TOTAL Nigeria Plc,Momar Nguer,executive
+Conoil Plc,Westbridge Energy Corporation,Moses Ebietsuwa Omatsola,executive
+Westbridge Energy Corporation,Conoil Plc,Moses Ebietsuwa Omatsola,executive
+Standard Bank Group Limited,The Standard Bank of South Africa Limited,Myles J D Ruck,executive
+The Standard Bank of South Africa Limited,Standard Bank Group Limited,Myles J D Ruck,executive
+Nigerian Breweries Plc,Nestle Nigeria Plc,Ndidi Okonkwo Nwuneli,executive
+Nestle Nigeria Plc,Nigerian Breweries Plc,Ndidi Okonkwo Nwuneli,executive
+Nigerian Breweries Plc,AACE Food Processing & Distribution Ltd,Ndidi Okonkwo Nwuneli,executive
+AACE Food Processing & Distribution Ltd,Nigerian Breweries Plc,Ndidi Okonkwo Nwuneli,executive
+Nigerian Breweries Plc,Cornerstone Insurance Plc,Ndidi Okonkwo Nwuneli,executive
+Cornerstone Insurance Plc,Nigerian Breweries Plc,Ndidi Okonkwo Nwuneli,executive
+Nestle Nigeria Plc,AACE Food Processing & Distribution Ltd,Ndidi Okonkwo Nwuneli,executive
+AACE Food Processing & Distribution Ltd,Nestle Nigeria Plc,Ndidi Okonkwo Nwuneli,executive
+Nestle Nigeria Plc,Cornerstone Insurance Plc,Ndidi Okonkwo Nwuneli,executive
+Cornerstone Insurance Plc,Nestle Nigeria Plc,Ndidi Okonkwo Nwuneli,executive
+AACE Food Processing & Distribution Ltd,Cornerstone Insurance Plc,Ndidi Okonkwo Nwuneli,executive
+Cornerstone Insurance Plc,AACE Food Processing & Distribution Ltd,Ndidi Okonkwo Nwuneli,executive
+Access Bank Plc,STACO Insurance Plc,Ndubuisi Emmanuel Chiejina,executive
+STACO Insurance Plc,Access Bank Plc,Ndubuisi Emmanuel Chiejina,executive
+Nigerian Aviation Handling Company Plc,Nigerian Aviation Handling Company Plc,Norbert Bielderman,executive
+Nigerian Aviation Handling Company Plc,Nigerian Aviation Handling Company Plc,Norbert Bielderman,executive
+First Bank of Nigeria Limited,Honeywell Flour Mills Plc,Obafemi Adedamola Otudeko,executive
+Honeywell Flour Mills Plc,First Bank of Nigeria Limited,Obafemi Adedamola Otudeko,executive
+Access Bank Plc,Intercontinental Homes Savings & Loans Plc,Obinna David Nwosu,executive
+Intercontinental Homes Savings & Loans Plc,Access Bank Plc,Obinna David Nwosu,executive
+DN Tyre & Rubber Plc,Sovereign Trust Insurance Plc,Ogala Osoka,executive
+Sovereign Trust Insurance Plc,DN Tyre & Rubber Plc,Ogala Osoka,executive
+Dorman Long Engineering Limited,C & I Leasing Plc,Ogbueshi Henry Chukwuma Okolo,executive
+C & I Leasing Plc,Dorman Long Engineering Limited,Ogbueshi Henry Chukwuma Okolo,executive
+Dorman Long Engineering Limited,First Aluminium Nigeria Plc,Ogbueshi Henry Chukwuma Okolo,executive
+First Aluminium Nigeria Plc,Dorman Long Engineering Limited,Ogbueshi Henry Chukwuma Okolo,executive
+C & I Leasing Plc,First Aluminium Nigeria Plc,Ogbueshi Henry Chukwuma Okolo,executive
+First Aluminium Nigeria Plc,C & I Leasing Plc,Ogbueshi Henry Chukwuma Okolo,executive
+Guaranty Trust Bank Plc,ADIC Insurance Limited,Ohis Ohiwerei,executive
+ADIC Insurance Limited,Guaranty Trust Bank Plc,Ohis Ohiwerei,executive
+Access Bank Plc,Access Bank (Cote-d Ivoire) SA,Ojinika Nkechinyelu Olaghere,executive
+Access Bank (Cote-d Ivoire) SA,Access Bank Plc,Ojinika Nkechinyelu Olaghere,executive
+UAC of Nigeria Plc,Emerging Markets Private Equity Association,Okechukwu Enelamah,executive
+Emerging Markets Private Equity Association,UAC of Nigeria Plc,Okechukwu Enelamah,executive
+UAC of Nigeria Plc,Cornerstone Insurance Plc,Okechukwu Enelamah,executive
+Cornerstone Insurance Plc,UAC of Nigeria Plc,Okechukwu Enelamah,executive
+UAC of Nigeria Plc,African Venture Capital Association,Okechukwu Enelamah,executive
+African Venture Capital Association,UAC of Nigeria Plc,Okechukwu Enelamah,executive
+UAC of Nigeria Plc,Dorman Long Engineering Limited,Okechukwu Enelamah,executive
+Dorman Long Engineering Limited,UAC of Nigeria Plc,Okechukwu Enelamah,executive
+Emerging Markets Private Equity Association,Cornerstone Insurance Plc,Okechukwu Enelamah,executive
+Cornerstone Insurance Plc,Emerging Markets Private Equity Association,Okechukwu Enelamah,executive
+Emerging Markets Private Equity Association,African Venture Capital Association,Okechukwu Enelamah,executive
+African Venture Capital Association,Emerging Markets Private Equity Association,Okechukwu Enelamah,executive
+Emerging Markets Private Equity Association,Dorman Long Engineering Limited,Okechukwu Enelamah,executive
+Dorman Long Engineering Limited,Emerging Markets Private Equity Association,Okechukwu Enelamah,executive
+Cornerstone Insurance Plc,African Venture Capital Association,Okechukwu Enelamah,executive
+African Venture Capital Association,Cornerstone Insurance Plc,Okechukwu Enelamah,executive
+Cornerstone Insurance Plc,Dorman Long Engineering Limited,Okechukwu Enelamah,executive
+Dorman Long Engineering Limited,Cornerstone Insurance Plc,Okechukwu Enelamah,executive
+African Venture Capital Association,Dorman Long Engineering Limited,Okechukwu Enelamah,executive
+Dorman Long Engineering Limited,African Venture Capital Association,Okechukwu Enelamah,executive
+Diamond Bank Plc,Diamond Securities Limited,Oladele Akinyemi,executive
+Diamond Securities Limited,Diamond Bank Plc,Oladele Akinyemi,executive
+First Hydrocarbon Nigeria Limited,AIICO Insurance Plc,Oladele Fajemirokun,executive
+AIICO Insurance Plc,First Hydrocarbon Nigeria Limited,Oladele Fajemirokun,executive
+Dangote Cement Plc,Benue Cement Company Plc,Olakunle Alake,executive
+Benue Cement Company Plc,Dangote Cement Plc,Olakunle Alake,executive
+Dangote Cement Plc,Dangote Sugar Refinery Plc,Olakunle Alake,executive
+Dangote Sugar Refinery Plc,Dangote Cement Plc,Olakunle Alake,executive
+Dangote Cement Plc,NASCON Allied Industries Plc,Olakunle Alake,executive
+NASCON Allied Industries Plc,Dangote Cement Plc,Olakunle Alake,executive
+Dangote Cement Plc,Dangote Flour Mills Plc,Olakunle Alake,executive
+Dangote Flour Mills Plc,Dangote Cement Plc,Olakunle Alake,executive
+Benue Cement Company Plc,Dangote Sugar Refinery Plc,Olakunle Alake,executive
+Dangote Sugar Refinery Plc,Benue Cement Company Plc,Olakunle Alake,executive
+Benue Cement Company Plc,NASCON Allied Industries Plc,Olakunle Alake,executive
+NASCON Allied Industries Plc,Benue Cement Company Plc,Olakunle Alake,executive
+Benue Cement Company Plc,Dangote Flour Mills Plc,Olakunle Alake,executive
+Dangote Flour Mills Plc,Benue Cement Company Plc,Olakunle Alake,executive
+Dangote Sugar Refinery Plc,NASCON Allied Industries Plc,Olakunle Alake,executive
+NASCON Allied Industries Plc,Dangote Sugar Refinery Plc,Olakunle Alake,executive
+Dangote Sugar Refinery Plc,Dangote Flour Mills Plc,Olakunle Alake,executive
+Dangote Flour Mills Plc,Dangote Sugar Refinery Plc,Olakunle Alake,executive
+NASCON Allied Industries Plc,Dangote Flour Mills Plc,Olakunle Alake,executive
+Dangote Flour Mills Plc,NASCON Allied Industries Plc,Olakunle Alake,executive
+Oando Energy Resources Inc,Equator Exploration Limited,Olapade O Durotoye,executive
+Equator Exploration Limited,Oando Energy Resources Inc,Olapade O Durotoye,executive
+Skye Bank Plc,Secure Electronic Technology Plc,Olatunde John Ayeni,executive
+Secure Electronic Technology Plc,Skye Bank Plc,Olatunde John Ayeni,executive
+Skye Bank Plc,Integrated Energy Distribution and Marketing Limited,Olatunde John Ayeni,executive
+Integrated Energy Distribution and Marketing Limited,Skye Bank Plc,Olatunde John Ayeni,executive
+Skye Bank Plc,ASO Savings and Loans Plc,Olatunde John Ayeni,executive
+ASO Savings and Loans Plc,Skye Bank Plc,Olatunde John Ayeni,executive
+Secure Electronic Technology Plc,Integrated Energy Distribution and Marketing Limited,Olatunde John Ayeni,executive
+Integrated Energy Distribution and Marketing Limited,Secure Electronic Technology Plc,Olatunde John Ayeni,executive
+Secure Electronic Technology Plc,ASO Savings and Loans Plc,Olatunde John Ayeni,executive
+ASO Savings and Loans Plc,Secure Electronic Technology Plc,Olatunde John Ayeni,executive
+Integrated Energy Distribution and Marketing Limited,ASO Savings and Loans Plc,Olatunde John Ayeni,executive
+ASO Savings and Loans Plc,Integrated Energy Distribution and Marketing Limited,Olatunde John Ayeni,executive
+Transnational Corporation of Nigeria Plc,Transcorp Hotels Plc,Olorogun O tega Emerhor,executive
+Transcorp Hotels Plc,Transnational Corporation of Nigeria Plc,Olorogun O tega Emerhor,executive
+Dangote Cement Plc,Benue Cement Company Plc,Olusegun Olusanya,executive
+Benue Cement Company Plc,Dangote Cement Plc,Olusegun Olusanya,executive
+Dangote Cement Plc,Meristem Securities Limited,Olusegun Olusanya,executive
+Meristem Securities Limited,Dangote Cement Plc,Olusegun Olusanya,executive
+Dangote Cement Plc,Tripple Gee & Company Plc,Olusegun Olusanya,executive
+Tripple Gee & Company Plc,Dangote Cement Plc,Olusegun Olusanya,executive
+Benue Cement Company Plc,Meristem Securities Limited,Olusegun Olusanya,executive
+Meristem Securities Limited,Benue Cement Company Plc,Olusegun Olusanya,executive
+Benue Cement Company Plc,Tripple Gee & Company Plc,Olusegun Olusanya,executive
+Tripple Gee & Company Plc,Benue Cement Company Plc,Olusegun Olusanya,executive
+Meristem Securities Limited,Tripple Gee & Company Plc,Olusegun Olusanya,executive
+Tripple Gee & Company Plc,Meristem Securities Limited,Olusegun Olusanya,executive
+Stanbic IBTC Asset Management Ltd,Stanbic IBTC Holdings PLC,Olusola David Borha,executive
+Stanbic IBTC Holdings PLC,Stanbic IBTC Asset Management Ltd,Olusola David Borha,executive
+Stanbic IBTC Asset Management Ltd,CRC Credit Bureau Limited,Olusola David Borha,executive
+CRC Credit Bureau Limited,Stanbic IBTC Asset Management Ltd,Olusola David Borha,executive
+Stanbic IBTC Asset Management Ltd,Coca-Cola HBC AG,Olusola David Borha,executive
+Coca-Cola HBC AG,Stanbic IBTC Asset Management Ltd,Olusola David Borha,executive
+Stanbic IBTC Holdings PLC,CRC Credit Bureau Limited,Olusola David Borha,executive
+CRC Credit Bureau Limited,Stanbic IBTC Holdings PLC,Olusola David Borha,executive
+Stanbic IBTC Holdings PLC,Coca-Cola HBC AG,Olusola David Borha,executive
+Coca-Cola HBC AG,Stanbic IBTC Holdings PLC,Olusola David Borha,executive
+CRC Credit Bureau Limited,Coca-Cola HBC AG,Olusola David Borha,executive
+Coca-Cola HBC AG,CRC Credit Bureau Limited,Olusola David Borha,executive
+Crusader Nigeria Plc,FCMB Group Plc,Olutola Oluseni Mobolurin,executive
+FCMB Group Plc,Crusader Nigeria Plc,Olutola Oluseni Mobolurin,executive
+Crusader Nigeria Plc,Capital Bancorp Limited,Olutola Oluseni Mobolurin,executive
+Capital Bancorp Limited,Crusader Nigeria Plc,Olutola Oluseni Mobolurin,executive
+FCMB Group Plc,Capital Bancorp Limited,Olutola Oluseni Mobolurin,executive
+Capital Bancorp Limited,FCMB Group Plc,Olutola Oluseni Mobolurin,executive
+Oando Energy Resources Inc,Equator Exploration Limited,Omamofe Boyo,executive
+Equator Exploration Limited,Oando Energy Resources Inc,Omamofe Boyo,executive
+Livestock Feeds Plc,Chemical and Allied Products Plc,Omolara Elemide,executive
+Chemical and Allied Products Plc,Livestock Feeds Plc,Omolara Elemide,executive
+Africa Finance Corporation,Zenith Bank Plc,Onyeagwu N Ebenezer,executive
+Zenith Bank Plc,Africa Finance Corporation,Onyeagwu N Ebenezer,executive
+Africa Finance Corporation,Zenith Securities Limited,Onyeagwu N Ebenezer,executive
+Zenith Securities Limited,Africa Finance Corporation,Onyeagwu N Ebenezer,executive
+Zenith Bank Plc,Zenith Securities Limited,Onyeagwu N Ebenezer,executive
+Zenith Securities Limited,Zenith Bank Plc,Onyeagwu N Ebenezer,executive
+A.G. Leventis (Nigeria) PLC,Aspinall Capital Advisers,Orikolade Adebayo Karim,executive
+Aspinall Capital Advisers,A.G. Leventis (Nigeria) PLC,Orikolade Adebayo Karim,executive
+A.G. Leventis (Nigeria) PLC,Costain (West Africa) Plc,Orikolade Adebayo Karim,executive
+Costain (West Africa) Plc,A.G. Leventis (Nigeria) PLC,Orikolade Adebayo Karim,executive
+A.G. Leventis (Nigeria) PLC,Nigerian Ropes plc,Orikolade Adebayo Karim,executive
+Nigerian Ropes plc,A.G. Leventis (Nigeria) PLC,Orikolade Adebayo Karim,executive
+A.G. Leventis (Nigeria) PLC,African Eagle Resources plc,Orikolade Adebayo Karim,executive
+African Eagle Resources plc,A.G. Leventis (Nigeria) PLC,Orikolade Adebayo Karim,executive
+Aspinall Capital Advisers,Costain (West Africa) Plc,Orikolade Adebayo Karim,executive
+Costain (West Africa) Plc,Aspinall Capital Advisers,Orikolade Adebayo Karim,executive
+Aspinall Capital Advisers,Nigerian Ropes plc,Orikolade Adebayo Karim,executive
+Nigerian Ropes plc,Aspinall Capital Advisers,Orikolade Adebayo Karim,executive
+Aspinall Capital Advisers,African Eagle Resources plc,Orikolade Adebayo Karim,executive
+African Eagle Resources plc,Aspinall Capital Advisers,Orikolade Adebayo Karim,executive
+Costain (West Africa) Plc,Nigerian Ropes plc,Orikolade Adebayo Karim,executive
+Nigerian Ropes plc,Costain (West Africa) Plc,Orikolade Adebayo Karim,executive
+Costain (West Africa) Plc,African Eagle Resources plc,Orikolade Adebayo Karim,executive
+African Eagle Resources plc,Costain (West Africa) Plc,Orikolade Adebayo Karim,executive
+Nigerian Ropes plc,African Eagle Resources plc,Orikolade Adebayo Karim,executive
+African Eagle Resources plc,Nigerian Ropes plc,Orikolade Adebayo Karim,executive
+Access Bank Plc,STACO Insurance Plc,Oritsedere Samuel Otubu,executive
+STACO Insurance Plc,Access Bank Plc,Oritsedere Samuel Otubu,executive
+MainStreet Bank Limited,Nigerian Wire and Cable plc,Osa Osunde,executive
+Nigerian Wire and Cable plc,MainStreet Bank Limited,Osa Osunde,executive
+MainStreet Bank Limited,Niger Insurance Plc,Osa Osunde,executive
+Niger Insurance Plc,MainStreet Bank Limited,Osa Osunde,executive
+MainStreet Bank Limited,Presco Plc,Osa Osunde,executive
+Presco Plc,MainStreet Bank Limited,Osa Osunde,executive
+MainStreet Bank Limited,DN Meyer Plc,Osa Osunde,executive
+DN Meyer Plc,MainStreet Bank Limited,Osa Osunde,executive
+MainStreet Bank Limited,Stokvis Nigeria Plc,Osa Osunde,executive
+Stokvis Nigeria Plc,MainStreet Bank Limited,Osa Osunde,executive
+Nigerian Wire and Cable plc,Niger Insurance Plc,Osa Osunde,executive
+Niger Insurance Plc,Nigerian Wire and Cable plc,Osa Osunde,executive
+Nigerian Wire and Cable plc,Presco Plc,Osa Osunde,executive
+Presco Plc,Nigerian Wire and Cable plc,Osa Osunde,executive
+Nigerian Wire and Cable plc,DN Meyer Plc,Osa Osunde,executive
+DN Meyer Plc,Nigerian Wire and Cable plc,Osa Osunde,executive
+Nigerian Wire and Cable plc,Stokvis Nigeria Plc,Osa Osunde,executive
+Stokvis Nigeria Plc,Nigerian Wire and Cable plc,Osa Osunde,executive
+Niger Insurance Plc,Presco Plc,Osa Osunde,executive
+Presco Plc,Niger Insurance Plc,Osa Osunde,executive
+Niger Insurance Plc,DN Meyer Plc,Osa Osunde,executive
+DN Meyer Plc,Niger Insurance Plc,Osa Osunde,executive
+Niger Insurance Plc,Stokvis Nigeria Plc,Osa Osunde,executive
+Stokvis Nigeria Plc,Niger Insurance Plc,Osa Osunde,executive
+Presco Plc,DN Meyer Plc,Osa Osunde,executive
+DN Meyer Plc,Presco Plc,Osa Osunde,executive
+Presco Plc,Stokvis Nigeria Plc,Osa Osunde,executive
+Stokvis Nigeria Plc,Presco Plc,Osa Osunde,executive
+DN Meyer Plc,Stokvis Nigeria Plc,Osa Osunde,executive
+Stokvis Nigeria Plc,DN Meyer Plc,Osa Osunde,executive
+FBN Holdings Plc,Leadway Assurance Company Limited,Oyekanmi Hassan Odukale,executive
+Leadway Assurance Company Limited,FBN Holdings Plc,Oyekanmi Hassan Odukale,executive
+Union Bank of Nigeria Plc,Old Mutual Nigeria Life Assurance Company Limited,Oyinkansade Adewale,executive
+Old Mutual Nigeria Life Assurance Company Limited,Union Bank of Nigeria Plc,Oyinkansade Adewale,executive
+CBO Investment Management,Keystone Bank Limited,Pat Utomi,executive
+Keystone Bank Limited,CBO Investment Management,Pat Utomi,executive
+C & I Leasing Plc,International Energy Insurance Plc,Patrick Sule Nduka Ugboma,executive
+International Energy Insurance Plc,C & I Leasing Plc,Patrick Sule Nduka Ugboma,executive
+C & I Leasing Plc,Integrated Microfinance Bank,Patrick Sule Nduka Ugboma,executive
+Integrated Microfinance Bank,C & I Leasing Plc,Patrick Sule Nduka Ugboma,executive
+International Energy Insurance Plc,Integrated Microfinance Bank,Patrick Sule Nduka Ugboma,executive
+Integrated Microfinance Bank,International Energy Insurance Plc,Patrick Sule Nduka Ugboma,executive
+Cornerstone Insurance Plc,SWIFT networks Ltd,Paul Kokoricha,executive
+SWIFT networks Ltd,Cornerstone Insurance Plc,Paul Kokoricha,executive
+PZ Cussons Nigeria Plc,Access Bank Plc,Paul Usoro,executive
+Access Bank Plc,PZ Cussons Nigeria Plc,Paul Usoro,executive
+Zenith Bank Plc,Zenith Securities Limited,Peter Amangbo,executive
+Zenith Securities Limited,Zenith Bank Plc,Peter Amangbo,executive
+Standard Bank Group Limited,The Standard Bank of South Africa Limited,Peter David Sullivan,executive
+The Standard Bank of South Africa Limited,Standard Bank Group Limited,Peter David Sullivan,executive
+Africa Prudential Registrars Plc,Transcorp Hotels Plc,Peter J Elumelu,executive
+Transcorp Hotels Plc,Africa Prudential Registrars Plc,Peter J Elumelu,executive
+United Bank for Africa Plc,Interswitch Limited,Phillips Oduoza,executive
+Interswitch Limited,United Bank for Africa Plc,Phillips Oduoza,executive
+Flour Mills of Nigeria PLC,Northern Nigeria Flour Mills Plc,Rabiu Muhammad Gwarzo,executive
+Northern Nigeria Flour Mills Plc,Flour Mills of Nigeria PLC,Rabiu Muhammad Gwarzo,executive
+Flour Mills of Nigeria PLC,Royal Exchange Plc,Rabiu Muhammad Gwarzo,executive
+Royal Exchange Plc,Flour Mills of Nigeria PLC,Rabiu Muhammad Gwarzo,executive
+Northern Nigeria Flour Mills Plc,Royal Exchange Plc,Rabiu Muhammad Gwarzo,executive
+Royal Exchange Plc,Northern Nigeria Flour Mills Plc,Rabiu Muhammad Gwarzo,executive
+Linkage Assurance Plc,Caverton Offshore Support Group Plc,Raymond Ihyembe,executive
+Caverton Offshore Support Group Plc,Linkage Assurance Plc,Raymond Ihyembe,executive
+Kakawa Discount House Limited,Sterling Asset Management Trust Limited,Razack Adeyemi Adeola,executive
+Sterling Asset Management Trust Limited,Kakawa Discount House Limited,Razack Adeyemi Adeola,executive
+Kakawa Discount House Limited,CRC Credit Bureau Limited,Remilekun A Odunlami,executive
+CRC Credit Bureau Limited,Kakawa Discount House Limited,Remilekun A Odunlami,executive
+Crusader Nigeria Plc,Unity Bank Plc,Richard Gboyega Asabia,executive
+Unity Bank Plc,Crusader Nigeria Plc,Richard Gboyega Asabia,executive
+Crusader Nigeria Plc,Custodian and Allied Insurance Limited,Richard Gboyega Asabia,executive
+Custodian and Allied Insurance Limited,Crusader Nigeria Plc,Richard Gboyega Asabia,executive
+Unity Bank Plc,Custodian and Allied Insurance Limited,Richard Gboyega Asabia,executive
+Custodian and Allied Insurance Limited,Unity Bank Plc,Richard Gboyega Asabia,executive
+PZ Cussons Nigeria Plc,PZ Cussons Plc,Richard J Harvey,executive
+PZ Cussons Plc,PZ Cussons Nigeria Plc,Richard J Harvey,executive
+Union Bank of Nigeria Plc,SWIFT networks Ltd,Richard Lee Kramer,executive
+SWIFT networks Ltd,Union Bank of Nigeria Plc,Richard Lee Kramer,executive
+Standard Bank Group Limited,The Standard Bank of South Africa Limited,Richard Matthew Wingfield Dunne,executive
+The Standard Bank of South Africa Limited,Standard Bank Group Limited,Richard Matthew Wingfield Dunne,executive
+United Bank for Africa Plc,Abbey Building Society Plc,Rose Ada Okwechime,executive
+Abbey Building Society Plc,United Bank for Africa Plc,Rose Ada Okwechime,executive
+Vitafoam Nigeria Plc,Expatcarehealth International Limited,Sam N Okagbue,executive
+Expatcarehealth International Limited,Vitafoam Nigeria Plc,Sam N Okagbue,executive
+United Bank for Africa Plc,Nigeria Deposit Insurance Corporation,Samuel A Oni,executive
+Nigeria Deposit Insurance Corporation,United Bank for Africa Plc,Samuel A Oni,executive
+Dangote Cement Plc,Dangote Sugar Refinery Plc,Sani Dangote,executive
+Dangote Sugar Refinery Plc,Dangote Cement Plc,Sani Dangote,executive
+Dangote Cement Plc,NASCON Allied Industries Plc,Sani Dangote,executive
+NASCON Allied Industries Plc,Dangote Cement Plc,Sani Dangote,executive
+Dangote Sugar Refinery Plc,NASCON Allied Industries Plc,Sani Dangote,executive
+NASCON Allied Industries Plc,Dangote Sugar Refinery Plc,Sani Dangote,executive
+Ecobank Transnational Incorporated,Ecobank Nigeria Limited,Sheila M Mbijjewe,executive
+Ecobank Nigeria Limited,Ecobank Transnational Incorporated,Sheila M Mbijjewe,executive
+Standard Bank Group Limited,The Standard Bank of South Africa Limited,Simon P Ridley,executive
+The Standard Bank of South Africa Limited,Standard Bank Group Limited,Simon P Ridley,executive
+Standard Bank Group Limited,The Standard Bank of South Africa Limited,Simpiwe K Tshabalala,executive
+The Standard Bank of South Africa Limited,Standard Bank Group Limited,Simpiwe K Tshabalala,executive
+Standard Bank Group Limited,Stanbic IBTC Holdings PLC,Simpiwe K Tshabalala,executive
+Stanbic IBTC Holdings PLC,Standard Bank Group Limited,Simpiwe K Tshabalala,executive
+The Standard Bank of South Africa Limited,Stanbic IBTC Holdings PLC,Simpiwe K Tshabalala,executive
+Stanbic IBTC Holdings PLC,The Standard Bank of South Africa Limited,Simpiwe K Tshabalala,executive
+UTC Nigeria Plc,Eterna Plc,Tajudeen Afolabi Adeola,executive
+Eterna Plc,UTC Nigeria Plc,Tajudeen Afolabi Adeola,executive
+Access Bank Plc,Access Finance B.V,Tamramat Mosunmola Belo Olusoga,executive
+Access Finance B.V,Access Bank Plc,Tamramat Mosunmola Belo Olusoga,executive
+Access Bank Plc,Access Finance B.V.,Tamramat Mosunmola Belo Olusoga,executive
+Access Finance B.V.,Access Bank Plc,Tamramat Mosunmola Belo Olusoga,executive
+Access Finance B.V,Access Finance B.V.,Tamramat Mosunmola Belo Olusoga,executive
+Access Finance B.V.,Access Finance B.V,Tamramat Mosunmola Belo Olusoga,executive
+Standard Bank Group Limited,The Standard Bank of South Africa Limited,Thulani Sikhulu Gcabashe,executive
+The Standard Bank of South Africa Limited,Standard Bank Group Limited,Thulani Sikhulu Gcabashe,executive
+Skye Bank Plc,Kakawa Discount House Limited,Timothy Oguntayo,executive
+Kakawa Discount House Limited,Skye Bank Plc,Timothy Oguntayo,executive
+Skye Bank Plc,Main One Cable Company Nigeria Ltd,Timothy Oguntayo,executive
+Main One Cable Company Nigeria Ltd,Skye Bank Plc,Timothy Oguntayo,executive
+Kakawa Discount House Limited,Main One Cable Company Nigeria Ltd,Timothy Oguntayo,executive
+Main One Cable Company Nigeria Ltd,Kakawa Discount House Limited,Timothy Oguntayo,executive
+Access Bank Plc,CRC Credit Bureau Limited,Titilayo Grace Titi Osuntoki,executive
+CRC Credit Bureau Limited,Access Bank Plc,Titilayo Grace Titi Osuntoki,executive
+NICON Hilton Hotel,The Corporate Council on Africa private company,Tony Onyemaechi Elumelu,executive
+The Corporate Council on Africa private company,NICON Hilton Hotel,Tony Onyemaechi Elumelu,executive
+NICON Hilton Hotel,United Bank for Africa Plc,Tony Onyemaechi Elumelu,executive
+United Bank for Africa Plc,NICON Hilton Hotel,Tony Onyemaechi Elumelu,executive
+NICON Hilton Hotel,Africa Finance Corporation,Tony Onyemaechi Elumelu,executive
+Africa Finance Corporation,NICON Hilton Hotel,Tony Onyemaechi Elumelu,executive
+NICON Hilton Hotel,United Bank for Africa (Ghana) Limited,Tony Onyemaechi Elumelu,executive
+United Bank for Africa (Ghana) Limited,NICON Hilton Hotel,Tony Onyemaechi Elumelu,executive
+NICON Hilton Hotel,The Corporate Council on Africa,Tony Onyemaechi Elumelu,executive
+The Corporate Council on Africa,NICON Hilton Hotel,Tony Onyemaechi Elumelu,executive
+NICON Hilton Hotel,Transnational Corporation of Nigeria Plc,Tony Onyemaechi Elumelu,executive
+Transnational Corporation of Nigeria Plc,NICON Hilton Hotel,Tony Onyemaechi Elumelu,executive
+The Corporate Council on Africa private company,United Bank for Africa Plc,Tony Onyemaechi Elumelu,executive
+United Bank for Africa Plc,The Corporate Council on Africa private company,Tony Onyemaechi Elumelu,executive
+The Corporate Council on Africa private company,Africa Finance Corporation,Tony Onyemaechi Elumelu,executive
+Africa Finance Corporation,The Corporate Council on Africa private company,Tony Onyemaechi Elumelu,executive
+The Corporate Council on Africa private company,United Bank for Africa (Ghana) Limited,Tony Onyemaechi Elumelu,executive
+United Bank for Africa (Ghana) Limited,The Corporate Council on Africa private company,Tony Onyemaechi Elumelu,executive
+The Corporate Council on Africa private company,The Corporate Council on Africa,Tony Onyemaechi Elumelu,executive
+The Corporate Council on Africa,The Corporate Council on Africa private company,Tony Onyemaechi Elumelu,executive
+The Corporate Council on Africa private company,Transnational Corporation of Nigeria Plc,Tony Onyemaechi Elumelu,executive
+Transnational Corporation of Nigeria Plc,The Corporate Council on Africa private company,Tony Onyemaechi Elumelu,executive
+United Bank for Africa Plc,Africa Finance Corporation,Tony Onyemaechi Elumelu,executive
+Africa Finance Corporation,United Bank for Africa Plc,Tony Onyemaechi Elumelu,executive
+United Bank for Africa Plc,United Bank for Africa (Ghana) Limited,Tony Onyemaechi Elumelu,executive
+United Bank for Africa (Ghana) Limited,United Bank for Africa Plc,Tony Onyemaechi Elumelu,executive
+United Bank for Africa Plc,The Corporate Council on Africa,Tony Onyemaechi Elumelu,executive
+The Corporate Council on Africa,United Bank for Africa Plc,Tony Onyemaechi Elumelu,executive
+United Bank for Africa Plc,Transnational Corporation of Nigeria Plc,Tony Onyemaechi Elumelu,executive
+Transnational Corporation of Nigeria Plc,United Bank for Africa Plc,Tony Onyemaechi Elumelu,executive
+Africa Finance Corporation,United Bank for Africa (Ghana) Limited,Tony Onyemaechi Elumelu,executive
+United Bank for Africa (Ghana) Limited,Africa Finance Corporation,Tony Onyemaechi Elumelu,executive
+Africa Finance Corporation,The Corporate Council on Africa,Tony Onyemaechi Elumelu,executive
+The Corporate Council on Africa,Africa Finance Corporation,Tony Onyemaechi Elumelu,executive
+Africa Finance Corporation,Transnational Corporation of Nigeria Plc,Tony Onyemaechi Elumelu,executive
+Transnational Corporation of Nigeria Plc,Africa Finance Corporation,Tony Onyemaechi Elumelu,executive
+United Bank for Africa (Ghana) Limited,The Corporate Council on Africa,Tony Onyemaechi Elumelu,executive
+The Corporate Council on Africa,United Bank for Africa (Ghana) Limited,Tony Onyemaechi Elumelu,executive
+United Bank for Africa (Ghana) Limited,Transnational Corporation of Nigeria Plc,Tony Onyemaechi Elumelu,executive
+Transnational Corporation of Nigeria Plc,United Bank for Africa (Ghana) Limited,Tony Onyemaechi Elumelu,executive
+The Corporate Council on Africa,Transnational Corporation of Nigeria Plc,Tony Onyemaechi Elumelu,executive
+Transnational Corporation of Nigeria Plc,The Corporate Council on Africa,Tony Onyemaechi Elumelu,executive
+Unic Insurance PLC,GZ Industries Limited,Tunji Olowolafe,executive
+GZ Industries Limited,Unic Insurance PLC,Tunji Olowolafe,executive
+Unilever Nigeria Plc,Linkage Assurance Plc,Udoma Udo Udoma,executive
+Linkage Assurance Plc,Unilever Nigeria Plc,Udoma Udo Udoma,executive
+Unilever Nigeria Plc,UAC of Nigeria Plc,Udoma Udo Udoma,executive
+UAC of Nigeria Plc,Unilever Nigeria Plc,Udoma Udo Udoma,executive
+Unilever Nigeria Plc,Union Bank of Nigeria Plc,Udoma Udo Udoma,executive
+Union Bank of Nigeria Plc,Unilever Nigeria Plc,Udoma Udo Udoma,executive
+Unilever Nigeria Plc,First Hydrocarbon Nigeria Limited,Udoma Udo Udoma,executive
+First Hydrocarbon Nigeria Limited,Unilever Nigeria Plc,Udoma Udo Udoma,executive
+Linkage Assurance Plc,UAC of Nigeria Plc,Udoma Udo Udoma,executive
+UAC of Nigeria Plc,Linkage Assurance Plc,Udoma Udo Udoma,executive
+Linkage Assurance Plc,Union Bank of Nigeria Plc,Udoma Udo Udoma,executive
+Union Bank of Nigeria Plc,Linkage Assurance Plc,Udoma Udo Udoma,executive
+Linkage Assurance Plc,First Hydrocarbon Nigeria Limited,Udoma Udo Udoma,executive
+First Hydrocarbon Nigeria Limited,Linkage Assurance Plc,Udoma Udo Udoma,executive
+UAC of Nigeria Plc,Union Bank of Nigeria Plc,Udoma Udo Udoma,executive
+Union Bank of Nigeria Plc,UAC of Nigeria Plc,Udoma Udo Udoma,executive
+UAC of Nigeria Plc,First Hydrocarbon Nigeria Limited,Udoma Udo Udoma,executive
+First Hydrocarbon Nigeria Limited,UAC of Nigeria Plc,Udoma Udo Udoma,executive
+Union Bank of Nigeria Plc,First Hydrocarbon Nigeria Limited,Udoma Udo Udoma,executive
+First Hydrocarbon Nigeria Limited,Union Bank of Nigeria Plc,Udoma Udo Udoma,executive
+First Bank of Nigeria Limited,Diamond Securities Limited,Urum Kalu Eke,executive
+Diamond Securities Limited,First Bank of Nigeria Limited,Urum Kalu Eke,executive
+Nigerian Aviation Handling Company Plc,Nigerian Aviation Handling Company Plc,Usman Arabi Musa Bello,executive
+Nigerian Aviation Handling Company Plc,Nigerian Aviation Handling Company Plc,Usman Arabi Musa Bello,executive
+Dangote Sugar Refinery Plc,Amni International Petroleum Development Company Limited,Uzoma Nwankwo,executive
+Amni International Petroleum Development Company Limited,Dangote Sugar Refinery Plc,Uzoma Nwankwo,executive
+Japaul Oil and Maritime Services Plc,Frontier Oil Limited,Victor Abayomi Koleade,executive
+Frontier Oil Limited,Japaul Oil and Maritime Services Plc,Victor Abayomi Koleade,executive
+UTC Nigeria Plc,Dorman Long Engineering Limited,Victor Gbolade Osibodu,executive
+Dorman Long Engineering Limited,UTC Nigeria Plc,Victor Gbolade Osibodu,executive
+UTC Nigeria Plc,AXA Mansard Insurance Plc,Victor Gbolade Osibodu,executive
+AXA Mansard Insurance Plc,UTC Nigeria Plc,Victor Gbolade Osibodu,executive
+UTC Nigeria Plc,Vigeo Holdings Limited,Victor Gbolade Osibodu,executive
+Vigeo Holdings Limited,UTC Nigeria Plc,Victor Gbolade Osibodu,executive
+Dorman Long Engineering Limited,AXA Mansard Insurance Plc,Victor Gbolade Osibodu,executive
+AXA Mansard Insurance Plc,Dorman Long Engineering Limited,Victor Gbolade Osibodu,executive
+Dorman Long Engineering Limited,Vigeo Holdings Limited,Victor Gbolade Osibodu,executive
+Vigeo Holdings Limited,Dorman Long Engineering Limited,Victor Gbolade Osibodu,executive
+AXA Mansard Insurance Plc,Vigeo Holdings Limited,Victor Gbolade Osibodu,executive
+Vigeo Holdings Limited,AXA Mansard Insurance Plc,Victor Gbolade Osibodu,executive
+Afromedia PLC,UTC Nigeria Plc,Victor Ogiemwonyi,executive
+UTC Nigeria Plc,Afromedia PLC,Victor Ogiemwonyi,executive
+Access Bank Plc,CRC Credit Bureau Limited,Victor Okenyenbunor Etuokwu,executive
+CRC Credit Bureau Limited,Access Bank Plc,Victor Okenyenbunor Etuokwu,executive
+Access Bank Plc,Intercontinental Homes Savings & Loans Plc,Victor Okenyenbunor Etuokwu,executive
+Intercontinental Homes Savings & Loans Plc,Access Bank Plc,Victor Okenyenbunor Etuokwu,executive
+CRC Credit Bureau Limited,Intercontinental Homes Savings & Loans Plc,Victor Okenyenbunor Etuokwu,executive
+Intercontinental Homes Savings & Loans Plc,CRC Credit Bureau Limited,Victor Okenyenbunor Etuokwu,executive
+Ecobank Nigeria Limited,Computer Warehouse Group Plc,Wilfred A Belonwu,executive
+Computer Warehouse Group Plc,Ecobank Nigeria Limited,Wilfred A Belonwu,executive
+Ikeja Hotel Plc,Tourist Company of Nigeria Plc,Yakubu Akanbi Disu,executive
+Tourist Company of Nigeria Plc,Ikeja Hotel Plc,Yakubu Akanbi Disu,executive
+Union Bank of Nigeria Plc,Seven Energy International Limited,Yemi Osindero,executive
+Seven Energy International Limited,Union Bank of Nigeria Plc,Yemi Osindero,executive
+Union Bank of Nigeria Plc,GZ Industries Limited,Yemi Osindero,executive
+GZ Industries Limited,Union Bank of Nigeria Plc,Yemi Osindero,executive
+Seven Energy International Limited,GZ Industries Limited,Yemi Osindero,executive
+GZ Industries Limited,Seven Energy International Limited,Yemi Osindero,executive
+Flour Mills of Nigeria PLC,Northern Nigeria Flour Mills Plc,Yunus Olalekan Alhaji Saliu,executive
+Northern Nigeria Flour Mills Plc,Flour Mills of Nigeria PLC,Yunus Olalekan Alhaji Saliu,executive
+
